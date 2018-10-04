@@ -1,0 +1,46 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<build>
+  <actions>
+    <hudson.model.CauseAction>
+      <causeBag class="linked-hash-map">
+        <entry>
+          <hudson.model.Cause_-UpstreamCause>
+            <upstreamProject>Toby_CC_ReviewScreen</upstreamProject>
+            <upstreamUrl>job/Toby_CC_ReviewScreen/</upstreamUrl>
+            <upstreamBuild>1</upstreamBuild>
+            <upstreamCauses>
+              <hudson.model.Cause_-UpstreamCause>
+                <upstreamProject>Toby_CC_Regression</upstreamProject>
+                <upstreamUrl>job/Toby_CC_Regression/</upstreamUrl>
+                <upstreamBuild>1</upstreamBuild>
+                <upstreamCauses>
+                  <hudson.model.Cause_-UpstreamCause>
+                    <upstreamProject>Toby_CC_Search</upstreamProject>
+                    <upstreamUrl>job/Toby_CC_Search/</upstreamUrl>
+                    <upstreamBuild>1</upstreamBuild>
+                    <upstreamCauses>
+                      <hudson.model.Cause_-UserIdCause/>
+                    </upstreamCauses>
+                  </hudson.model.Cause_-UpstreamCause>
+                </upstreamCauses>
+              </hudson.model.Cause_-UpstreamCause>
+            </upstreamCauses>
+          </hudson.model.Cause_-UpstreamCause>
+          <int>1</int>
+        </entry>
+      </causeBag>
+    </hudson.model.CauseAction>
+  </actions>
+  <queueId>671</queueId>
+  <timestamp>1537264473551</timestamp>
+  <startTime>1537264473558</startTime>
+  <result>FAILURE</result>
+  <duration>223815</duration>
+  <charset>windows-1252</charset>
+  <keepLog>false</keepLog>
+  <builtOn></builtOn>
+  <workspace>C:\AutomationFramework\JavaSeleniumFramework</workspace>
+  <hudsonVersion>2.129</hudsonVersion>
+  <scm class="hudson.scm.NullChangeLogParser"/>
+  <culprits class="com.google.common.collect.EmptyImmutableSortedSet"/>
+</build>

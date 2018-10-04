@@ -1,0 +1,142 @@
+Started by upstream project "[8mha:////4NcoSLjEs0yCeuUwFqnPjyuZMKZ+nz6PEEkyzq8ZnOkyAAAAqx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzJEgZ5/az8JH2PxKKy1OKS1KJ4l8ziksy85BL/0pKc1JJifQCupv/M1AAAAA==[0mHarvester_DistinctOutlets" build number [8mha:////4PFpvuvHYoTTA/o8Z0PwOIG+PbzkEEna33tXwOurCv5nAAAAqx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLQIwSBgX9rPwkfY/EorLU4pLUoniXzOKSzLzkEv/SkpzUkmJ9CwC/hFcH1QAAAA==[0m8
+originally caused by:
+ Started by upstream project "[8mha:////4KP1rfsN4w2UE705UtpYyHialc1xwzK1F+kC8h1uozasAAAArR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyZEgYl/az8JH2PxKKy1OKS1KJ4n/z0zLz4kMSknFSn/PxsoJn6AHjSUZzXAAAA[0mHarvester_Login_TableBooking" build number [8mha:////4DF61NKBgaMVBSch6Y5VXZLeMnsLBXD+oaNTT33DGE2VAAAArR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLQIwSBmX9rPwkfY/EorLU4pLUonif/PTMvPiQxKScVKf8/GygmfrmABrtPCTYAAAA[0m7
+ originally caused by:
+  Started by upstream project "[8mha:////4NWCrRq/t/2aifu32b8739cFtXX7Hy7p/A4Ygm+p9mH2AAAAtR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyVEgYt/az8JH2PxKKy1OKS1KL4kMSknFSn/PxsoGnxrmWpeSXxLqkF+cWZJfoAwGQ6N98AAAA=[0mHarvester_TableBooking_Event_Deposit" build number [8mha:////4KCSBCq0kq+sFIYxU9dByf0NZJ2igYNYoBFi2vLmFtqDAAAAtR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLQIwSBm39rPwkfY/EorLU4pLUoviQxKScVKf8/GygafGuZal5JfEuqQX5xZkl+mYAOMhk+eAAAAA=[0m6
+  originally caused by:
+   Started by upstream project "[8mha:////4BPw+VqMd2yCit+SazgtEgz4yzOdTIN8OpeLzCVmIWG1AAAAoh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyhEgYJ/az8JH2PxKKy1OKS1KL4oNT0TBBDHwAyogXbzQAAAA==[0mHarvester_Register" build number [8mha:////4D67kxW3EyPdJfGn0bqtXsoP6kpqresay95gIYzp0ElWAAAApB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAymEgYp/az8JH2PxKKy1OKS1KL4oNT0TBBD39AEAMimbN7PAAAA[0m14
+   originally caused by:
+    Started by user unknown or anonymous
+Building in workspace C:\AutomationFramework\JavaSeleniumFramework
+[JavaSeleniumFramework] $ cmd /c call C:\Users\TESTAC~1\AppData\Local\Temp\jenkins3177559479204166429.bat
+
+C:\AutomationFramework\JavaSeleniumFramework>C:\AutomationFramework\JavaSeleniumFramework\src\test\resources\testdesign\Minimize.bat
+
+C:\AutomationFramework\JavaSeleniumFramework>START taskkill /f /im Excel.exe 
+
+C:\AutomationFramework\JavaSeleniumFramework>START taskkill /f /im chromedriver.exe 
+
+C:\AutomationFramework\JavaSeleniumFramework>start "" "C:\AutomationFramework\JavaSeleniumFramework\src\test\resources\testdesign\Minimize.vbs" 
+[JavaSeleniumFramework] $ cmd.exe /C "C:\Maven\apache-maven-3.5.2\bin\mvn.cmd clean test -Dtest=ScriptGenerator -Dscenario=Harvester_SameOutlets_Error && exit %%ERRORLEVEL%%"
+[INFO] Scanning for projects...
+[INFO] 
+[INFO] ------------------------------------------------------------------------
+[INFO] Building onlineAutomation 1.0-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[8mha:////4FgVpCH/S5kjhM4aKaNEG8D32LVTzuWrGPC5JYx/R2KUAAAAYx+LCAAAAAAAAP9b85aBtbiIQSWjNKU4P0+vJLE4u1gvPjexLDVPzxdEhicW5WXmpfvll6S2fNly5fzGzauYGBgqihikoFqS8/OK83NS9ZwhNEghAwQwghQWAACwxA+XYgAAAA==[0m[WARNING] The POM for org.eclipse.jetty.websocket:websocket-client:jar:9.4.5.v20170502 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+[8mha:////4FgVpCH/S5kjhM4aKaNEG8D32LVTzuWrGPC5JYx/R2KUAAAAYx+LCAAAAAAAAP9b85aBtbiIQSWjNKU4P0+vJLE4u1gvPjexLDVPzxdEhicW5WXmpfvll6S2fNly5fzGzauYGBgqihikoFqS8/OK83NS9ZwhNEghAwQwghQWAACwxA+XYgAAAA==[0m[WARNING] The POM for org.eclipse.jetty:jetty-client:jar:9.4.5.v20170502 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+[8mha:////4FgVpCH/S5kjhM4aKaNEG8D32LVTzuWrGPC5JYx/R2KUAAAAYx+LCAAAAAAAAP9b85aBtbiIQSWjNKU4P0+vJLE4u1gvPjexLDVPzxdEhicW5WXmpfvll6S2fNly5fzGzauYGBgqihikoFqS8/OK83NS9ZwhNEghAwQwghQWAACwxA+XYgAAAA==[0m[WARNING] The POM for org.eclipse.jetty:jetty-http:jar:9.4.5.v20170502 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+[8mha:////4FgVpCH/S5kjhM4aKaNEG8D32LVTzuWrGPC5JYx/R2KUAAAAYx+LCAAAAAAAAP9b85aBtbiIQSWjNKU4P0+vJLE4u1gvPjexLDVPzxdEhicW5WXmpfvll6S2fNly5fzGzauYGBgqihikoFqS8/OK83NS9ZwhNEghAwQwghQWAACwxA+XYgAAAA==[0m[WARNING] The POM for org.eclipse.jetty:jetty-io:jar:9.4.5.v20170502 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+[8mha:////4FgVpCH/S5kjhM4aKaNEG8D32LVTzuWrGPC5JYx/R2KUAAAAYx+LCAAAAAAAAP9b85aBtbiIQSWjNKU4P0+vJLE4u1gvPjexLDVPzxdEhicW5WXmpfvll6S2fNly5fzGzauYGBgqihikoFqS8/OK83NS9ZwhNEghAwQwghQWAACwxA+XYgAAAA==[0m[WARNING] The POM for org.eclipse.jetty:jetty-util:jar:9.4.5.v20170502 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+[8mha:////4FgVpCH/S5kjhM4aKaNEG8D32LVTzuWrGPC5JYx/R2KUAAAAYx+LCAAAAAAAAP9b85aBtbiIQSWjNKU4P0+vJLE4u1gvPjexLDVPzxdEhicW5WXmpfvll6S2fNly5fzGzauYGBgqihikoFqS8/OK83NS9ZwhNEghAwQwghQWAACwxA+XYgAAAA==[0m[WARNING] The POM for org.eclipse.jetty.websocket:websocket-api:jar:9.4.5.v20170502 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+[8mha:////4FgVpCH/S5kjhM4aKaNEG8D32LVTzuWrGPC5JYx/R2KUAAAAYx+LCAAAAAAAAP9b85aBtbiIQSWjNKU4P0+vJLE4u1gvPjexLDVPzxdEhicW5WXmpfvll6S2fNly5fzGzauYGBgqihikoFqS8/OK83NS9ZwhNEghAwQwghQWAACwxA+XYgAAAA==[0m[WARNING] The POM for org.eclipse.jetty.websocket:websocket-common:jar:9.4.5.v20170502 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+[8mha:////4FgVpCH/S5kjhM4aKaNEG8D32LVTzuWrGPC5JYx/R2KUAAAAYx+LCAAAAAAAAP9b85aBtbiIQSWjNKU4P0+vJLE4u1gvPjexLDVPzxdEhicW5WXmpfvll6S2fNly5fzGzauYGBgqihikoFqS8/OK83NS9ZwhNEghAwQwghQWAACwxA+XYgAAAA==[0m[WARNING] The POM for org.apache.httpcomponents:httpcore:jar:4.3.3 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+[8mha:////4FgVpCH/S5kjhM4aKaNEG8D32LVTzuWrGPC5JYx/R2KUAAAAYx+LCAAAAAAAAP9b85aBtbiIQSWjNKU4P0+vJLE4u1gvPjexLDVPzxdEhicW5WXmpfvll6S2fNly5fzGzauYGBgqihikoFqS8/OK83NS9ZwhNEghAwQwghQWAACwxA+XYgAAAA==[0m[WARNING] The artifact org.apache.commons:commons-io:jar:1.3.2 has been relocated to commons-io:commons-io:jar:1.3.2
+[INFO] 
+[8mha:////4FeHgFSRyne1GA3PpjwbR1R8tgg2WwLe4OMTA4Du3+jlAAAAYB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P0+vJLE4u1gvPjexLDVPzxdEGvvmZ+X75ZekLlOVfvTjc8FPJgaGiiIGKaiG5Py84vycVD1nCA1SyAABjCCFBQCV27OjYAAAAA==[0m[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ onlineAutomation ---
+[INFO] Deleting C:\AutomationFramework\JavaSeleniumFramework\target
+[INFO] 
+[8mha:////4FeHgFSRyne1GA3PpjwbR1R8tgg2WwLe4OMTA4Du3+jlAAAAYB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P0+vJLE4u1gvPjexLDVPzxdEGvvmZ+X75ZekLlOVfvTjc8FPJgaGiiIGKaiG5Py84vycVD1nCA1SyAABjCCFBQCV27OjYAAAAA==[0m[INFO] --- cucumber-jvm-parallel-plugin:4.2.0:generateRunners (generateRunners) @ onlineAutomation ---
+[INFO] Adding C:\AutomationFramework\JavaSeleniumFramework\target\generated-test-sources\cucumber to test-compile source root
+[INFO] 
+[8mha:////4FeHgFSRyne1GA3PpjwbR1R8tgg2WwLe4OMTA4Du3+jlAAAAYB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P0+vJLE4u1gvPjexLDVPzxdEGvvmZ+X75ZekLlOVfvTjc8FPJgaGiiIGKaiG5Py84vycVD1nCA1SyAABjCCFBQCV27OjYAAAAA==[0m[INFO] --- maven-resources-plugin:2.7:resources (default-resources) @ onlineAutomation ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] Copying 7 resources
+[INFO] 
+[8mha:////4FeHgFSRyne1GA3PpjwbR1R8tgg2WwLe4OMTA4Du3+jlAAAAYB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P0+vJLE4u1gvPjexLDVPzxdEGvvmZ+X75ZekLlOVfvTjc8FPJgaGiiIGKaiG5Py84vycVD1nCA1SyAABjCCFBQCV27OjYAAAAA==[0m[INFO] --- maven-compiler-plugin:2.5.1:compile (default-compile) @ onlineAutomation ---
+[INFO] Nothing to compile - all classes are up to date
+[INFO] 
+[8mha:////4FeHgFSRyne1GA3PpjwbR1R8tgg2WwLe4OMTA4Du3+jlAAAAYB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P0+vJLE4u1gvPjexLDVPzxdEGvvmZ+X75ZekLlOVfvTjc8FPJgaGiiIGKaiG5Py84vycVD1nCA1SyAABjCCFBQCV27OjYAAAAA==[0m[INFO] --- maven-resources-plugin:2.7:testResources (default-testResources) @ onlineAutomation ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] Copying 7 resources
+[INFO] 
+[8mha:////4FeHgFSRyne1GA3PpjwbR1R8tgg2WwLe4OMTA4Du3+jlAAAAYB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P0+vJLE4u1gvPjexLDVPzxdEGvvmZ+X75ZekLlOVfvTjc8FPJgaGiiIGKaiG5Py84vycVD1nCA1SyAABjCCFBQCV27OjYAAAAA==[0m[INFO] --- maven-compiler-plugin:2.5.1:testCompile (default-testCompile) @ onlineAutomation ---
+[INFO] Compiling 56 source files to C:\AutomationFramework\JavaSeleniumFramework\target\test-classes
+[INFO] 
+[8mha:////4FeHgFSRyne1GA3PpjwbR1R8tgg2WwLe4OMTA4Du3+jlAAAAYB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P0+vJLE4u1gvPjexLDVPzxdEGvvmZ+X75ZekLlOVfvTjc8FPJgaGiiIGKaiG5Py84vycVD1nCA1SyAABjCCFBQCV27OjYAAAAA==[0m[INFO] --- maven-surefire-plugin:2.21.0:test (default-test) @ onlineAutomation ---
+[INFO] 
+[INFO] -------------------------------------------------------
+[INFO]  T E S T S
+[INFO] -------------------------------------------------------
+[INFO] Running com.mab.test.hybrid.ScriptGenerator
+Scenario is passed as : Harvester_SameOutlets_Error
+-- listing properties --
+profile.path=/profiles/jenkins/config.properties
+-- listing properties --
+harvester.url=https://stage-harvester.cms.mbplc.com/
+guest.user=guest
+driver.root.dir=tools
+iZone.url=https://tables.izone-staging.com/user...
+harvester.booking=http://mbplc-mkt-stage2-t.adobe-campa...
+mobile=Android
+site.url=https://www.harvester.co.uk/
+udid=ce0617165176d4120d
+autoemail=No
+oneills.order.url=https://stage-oneills.cms.mbplc.com/n...
+toby.url=https://stage-tobycarvery.cms.mbplc.com/
+guest.password=Alex900
+project.name=GuestOnline
+miller&carter.url=https://www.millerandcarter.co.uk/
+emailuser=jamesja@mbplc.com
+testToRun=**/ScriptGenerator.class
+screenshot=Yes
+iZone.user=555045mgr
+iZone.password=Sunshine1
+emailpassword=Vision18
+program.name=Guest Online WebPlatform
+reportlink="file://corp.retailhq.net/workspace/I...
+browser=chrome
+emailrecipients=jamesja@mbplc.com
+platform=win32
+Starting ChromeDriver 2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e) on port 30459
+Only local connections are allowed.
+Sep 10, 2018 3:32:13 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+Current working directory : C:\AutomationFramework\JavaSeleniumFramework
+Directory
+26/08/2018
+-1
+26
+30/09/2018
+0
+30
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 188.03 s - in com.mab.test.hybrid.ScriptGenerator
+[INFO] 
+[INFO] Results:
+[INFO] 
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0
+[INFO] 
+[INFO] 
+[8mha:////4FeHgFSRyne1GA3PpjwbR1R8tgg2WwLe4OMTA4Du3+jlAAAAYB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P0+vJLE4u1gvPjexLDVPzxdEGvvmZ+X75ZekLlOVfvTjc8FPJgaGiiIGKaiG5Py84vycVD1nCA1SyAABjCCFBQCV27OjYAAAAA==[0m[INFO] --- maven-surefire-plugin:2.21.0:test (test) @ onlineAutomation ---
+[INFO] Tests are skipped.
+[INFO] 
+[INFO] >>> exec-maven-plugin:1.2.1:java (default) > validate @ onlineAutomation >>>
+[INFO] 
+[8mha:////4FeHgFSRyne1GA3PpjwbR1R8tgg2WwLe4OMTA4Du3+jlAAAAYB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P0+vJLE4u1gvPjexLDVPzxdEGvvmZ+X75ZekLlOVfvTjc8FPJgaGiiIGKaiG5Py84vycVD1nCA1SyAABjCCFBQCV27OjYAAAAA==[0m[INFO] --- cucumber-jvm-parallel-plugin:4.2.0:generateRunners (generateRunners) @ onlineAutomation ---
+[INFO] Adding C:\AutomationFramework\JavaSeleniumFramework\target\generated-test-sources\cucumber to test-compile source root
+[INFO] 
+[INFO] <<< exec-maven-plugin:1.2.1:java (default) < validate @ onlineAutomation <<<
+[INFO] 
+[INFO] 
+[8mha:////4FeHgFSRyne1GA3PpjwbR1R8tgg2WwLe4OMTA4Du3+jlAAAAYB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P0+vJLE4u1gvPjexLDVPzxdEGvvmZ+X75ZekLlOVfvTjc8FPJgaGiiIGKaiG5Py84vycVD1nCA1SyAABjCCFBQCV27OjYAAAAA==[0m[INFO] --- exec-maven-plugin:1.2.1:java (default) @ onlineAutomation ---
+[INFO] 
+[INFO] --- maven-cucumber-reporting:0.0.8:generate (execution) @ onlineAutomation ---
+[8mha:////4FgVpCH/S5kjhM4aKaNEG8D32LVTzuWrGPC5JYx/R2KUAAAAYx+LCAAAAAAAAP9b85aBtbiIQSWjNKU4P0+vJLE4u1gvPjexLDVPzxdEhicW5WXmpfvll6S2fNly5fzGzauYGBgqihikoFqS8/OK83NS9ZwhNEghAwQwghQWAACwxA+XYgAAAA==[0m[WARNING] C:\AutomationFramework\JavaSeleniumFramework\target\cucumber-report\cucumber.json does not exist.
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time: 03:20 min
+[INFO] Finished at: 2018-09-10T15:35:17+01:00
+[INFO] Final Memory: 42M/445M
+[INFO] ------------------------------------------------------------------------
+[JavaSeleniumFramework] $ cmd /c call C:\Users\TESTAC~1\AppData\Local\Temp\jenkins3254657366513332613.bat
+
+C:\AutomationFramework\JavaSeleniumFramework>C:\AutomationFramework\JavaSeleniumFramework\src\test\resources\testdesign\Minimize.bat
+
+C:\AutomationFramework\JavaSeleniumFramework>START taskkill /f /im Excel.exe 
+
+C:\AutomationFramework\JavaSeleniumFramework>START taskkill /f /im chromedriver.exe 
+
+C:\AutomationFramework\JavaSeleniumFramework>start "" "C:\AutomationFramework\JavaSeleniumFramework\src\test\resources\testdesign\Minimize.vbs" 
+Triggering a new build of [8mha:////4LbBH0/ip5gWFIfKNVBapiUCaQrY3gWksJyjKM20TSPgAAAApx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyxEgYZ/az8JH2PxKKy1OKS1KJ496L80gKn/PxsoGn6AGQ4n/TRAAAA[0mHarvester_GroupBooking
+Finished: SUCCESS

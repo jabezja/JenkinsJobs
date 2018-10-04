@@ -1,0 +1,18 @@
+Started by upstream project "[8mha:////4IYp1HXiZF+5mdeQwajjBWMyb1gI9AoxaxAyYTDeCkzBAAAAoh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKK2vVLpcJb0ykYmByZOBLSc1L70kw4eBubQop4RByCcrsSxRPycxL10/uKQoMy/dGmicFJpxzhAa3d4CIEOohEFCPys/Sd8jsagstbgktSg+KDU9E8TQBwCaXZzszQAAAA==[0mHarvester_Register" build number [8mha:////4BT24etKz9KOsQ9rgH2ZaLwj/fLmTYrJ0ZuKRNvSCReXAAAApB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKK2vVLpcJb0ykYmByZOBLSc1L70kw4eBubQop4RByCcrsSxRPycxL10/uKQoMy/dGmicFJpxzhAa3d4CIIOphEFKPys/Sd8jsagstbgktSg+KDU9E8TQNzQHAIcZuQzPAAAA[0m17
+originally caused by:
+ Started by upstream project "[8mha:////4EKVw/X+lPozlP3JpzLgH40zspguKFQEZwZVJQMflBc7AAAArR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKK2vVLpcJb0ykYmByZOBLSc1L70kw4eBubQop4RByCcrsSxRPycxL10/uKQoMy/dGmicFJpxzhAa3d4CIEOmhEFJPys/Sd83MycntcgxL8U5sagktSg+JDEpJ9UpPz8baKY+AOwSlPjXAAAA[0mMillerAndCarter_TableBooking" build number [8mha:////4P+cIkgpl29GRTqudaNraZUD1dlF9ZrdpcMgco7QUrQzAAAArx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKK2vVLpcJb0ykYmByZOBLSc1L70kw4eBubQop4RByCcrsSxRPycxL10/uKQoMy/dGmicFJpxzhAa3d4CIIOphEFFPys/Sd83MycntcgxL8U5sagktSg+JDEpJ9UpPz8baKa+kTEAdY8kfdkAAAA=[0m23
+ originally caused by:
+  Started by user unknown or anonymous
+Building in workspace C:\AutomationFramework\JavaSeleniumFramework
+[JavaSeleniumFramework] $ cmd /c call C:\Users\TESTAC~1\AppData\Local\Temp\jenkins7878600183161840282.bat
+
+C:\AutomationFramework\JavaSeleniumFramework>C:\AutomationFramework\JavaSeleniumFramework\src\test\resources\testdesign\Minimize.bat
+
+C:\AutomationFramework\JavaSeleniumFramework>START taskkill /f /im Excel.exe 
+
+C:\AutomationFramework\JavaSeleniumFramework>START taskkill /f /im chromedriver.exe 
+
+C:\AutomationFramework\JavaSeleniumFramework>start "" "C:\AutomationFramework\JavaSeleniumFramework\src\test\resources\testdesign\Minimize.vbs" 
+Build was aborted
+Aborted by [8mha:////4KNKjgjL9/PSGVfPrFjdh/tQt+44uYuhR4wK3JznOGS0AAAAmR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKK2vVLpcJb0ykYmByZOBLSc1L70kw4eBubQop4RByCcrsSxRPycxL10/uKQoMy/dGmicFJpxzhAa3d4CIIO9hIFXv7Q4tUi/NC87L788DwAdXlYlwgAAAA==[0munknown
+Finished: ABORTED

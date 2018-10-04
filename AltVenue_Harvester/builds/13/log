@@ -1,0 +1,34 @@
+Started by user unknown or anonymous
+Building in workspace C:\AutomationFramework\JavaSeleniumFramework
+FATAL: Unable to produce a script file
+java.io.FileNotFoundException: C:\Users\TESTAC~1\AppData\Local\Temp\jenkins1775362538079540020.bat (The process cannot access the file because it is being used by another process)
+	at java.io.FileOutputStream.open0(Native Method)
+	at java.io.FileOutputStream.open(Unknown Source)
+	at java.io.FileOutputStream.<init>(Unknown Source)
+	at java.io.FileOutputStream.<init>(Unknown Source)
+	at java.io.FileWriter.<init>(Unknown Source)
+	at hudson.FilePath$CreateTextTempFile.invoke(FilePath.java:1514)
+	at hudson.FilePath$CreateTextTempFile.invoke(FilePath.java:1488)
+	at hudson.FilePath.act(FilePath.java:1095)
+	at hudson.FilePath.act(FilePath.java:1078)
+	at hudson.FilePath.createTextTempFile(FilePath.java:1483)
+Caused: java.io.IOException: Failed to create a temp file on C:\AutomationFramework\JavaSeleniumFramework
+	at hudson.FilePath.createTextTempFile(FilePath.java:1485)
+	at hudson.tasks.CommandInterpreter.createScriptFile(CommandInterpreter.java:162)
+	at hudson.tasks.CommandInterpreter.perform(CommandInterpreter.java:94)
+	at hudson.tasks.CommandInterpreter.perform(CommandInterpreter.java:66)
+	at hudson.tasks.BuildStepMonitor$1.perform(BuildStepMonitor.java:20)
+	at hudson.model.AbstractBuild$AbstractBuildExecution.perform(AbstractBuild.java:744)
+	at hudson.model.Build$BuildExecution.build(Build.java:206)
+	at hudson.model.Build$BuildExecution.doRun(Build.java:163)
+	at hudson.model.AbstractBuild$AbstractBuildExecution.run(AbstractBuild.java:504)
+	at hudson.model.Run.execute(Run.java:1815)
+	at hudson.model.FreeStyleBuild.run(FreeStyleBuild.java:43)
+	at hudson.model.ResourceController.execute(ResourceController.java:97)
+	at hudson.model.Executor.run(Executor.java:429)
+Build step 'Execute Windows batch command' marked build as failure
+Recording test results
+ERROR: Step ‘Publish JUnit test result report’ failed: Test reports were found but none of them are new. Did leafNodes run? 
+For example, C:\AutomationFramework\JavaSeleniumFramework\target\surefire-reports\TEST-com.mab.test.hybrid.ScriptGenerator.xml is 21 hr old
+
+Finished: FAILURE

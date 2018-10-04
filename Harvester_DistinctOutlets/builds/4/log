@@ -1,0 +1,390 @@
+Started by user unknown or anonymous
+Building in workspace C:\AutomationFramework\JavaSeleniumFramework
+[JavaSeleniumFramework] $ cmd /c call C:\Users\TESTAC~1\AppData\Local\Temp\jenkins4358970662312639689.bat
+
+C:\AutomationFramework\JavaSeleniumFramework>C:\AutomationFramework\JavaSeleniumFramework\src\test\resources\testdesign\Minimize.bat
+
+C:\AutomationFramework\JavaSeleniumFramework>START taskkill /f /im Excel.exe 
+
+C:\AutomationFramework\JavaSeleniumFramework>START taskkill /f /im chromedriver.exe 
+
+C:\AutomationFramework\JavaSeleniumFramework>start "" "C:\AutomationFramework\JavaSeleniumFramework\src\test\resources\testdesign\Minimize.vbs" 
+[JavaSeleniumFramework] $ cmd.exe /C "C:\Maven\apache-maven-3.5.2\bin\mvn.cmd clean test -Dtest=ScriptGenerator -Dscenario=Harvester_DistinctOutlets && exit %%ERRORLEVEL%%"
+[INFO] Scanning for projects...
+[INFO] 
+[INFO] ------------------------------------------------------------------------
+[INFO] Building onlineAutomation 1.0-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[8mha:////4FgVpCH/S5kjhM4aKaNEG8D32LVTzuWrGPC5JYx/R2KUAAAAYx+LCAAAAAAAAP9b85aBtbiIQSWjNKU4P0+vJLE4u1gvPjexLDVPzxdEhicW5WXmpfvll6S2fNly5fzGzauYGBgqihikoFqS8/OK83NS9ZwhNEghAwQwghQWAACwxA+XYgAAAA==[0m[WARNING] The POM for org.eclipse.jetty.websocket:websocket-client:jar:9.4.5.v20170502 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+[8mha:////4FgVpCH/S5kjhM4aKaNEG8D32LVTzuWrGPC5JYx/R2KUAAAAYx+LCAAAAAAAAP9b85aBtbiIQSWjNKU4P0+vJLE4u1gvPjexLDVPzxdEhicW5WXmpfvll6S2fNly5fzGzauYGBgqihikoFqS8/OK83NS9ZwhNEghAwQwghQWAACwxA+XYgAAAA==[0m[WARNING] The POM for org.eclipse.jetty:jetty-client:jar:9.4.5.v20170502 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+[8mha:////4FgVpCH/S5kjhM4aKaNEG8D32LVTzuWrGPC5JYx/R2KUAAAAYx+LCAAAAAAAAP9b85aBtbiIQSWjNKU4P0+vJLE4u1gvPjexLDVPzxdEhicW5WXmpfvll6S2fNly5fzGzauYGBgqihikoFqS8/OK83NS9ZwhNEghAwQwghQWAACwxA+XYgAAAA==[0m[WARNING] The POM for org.eclipse.jetty:jetty-http:jar:9.4.5.v20170502 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+[8mha:////4FgVpCH/S5kjhM4aKaNEG8D32LVTzuWrGPC5JYx/R2KUAAAAYx+LCAAAAAAAAP9b85aBtbiIQSWjNKU4P0+vJLE4u1gvPjexLDVPzxdEhicW5WXmpfvll6S2fNly5fzGzauYGBgqihikoFqS8/OK83NS9ZwhNEghAwQwghQWAACwxA+XYgAAAA==[0m[WARNING] The POM for org.eclipse.jetty:jetty-io:jar:9.4.5.v20170502 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+[8mha:////4FgVpCH/S5kjhM4aKaNEG8D32LVTzuWrGPC5JYx/R2KUAAAAYx+LCAAAAAAAAP9b85aBtbiIQSWjNKU4P0+vJLE4u1gvPjexLDVPzxdEhicW5WXmpfvll6S2fNly5fzGzauYGBgqihikoFqS8/OK83NS9ZwhNEghAwQwghQWAACwxA+XYgAAAA==[0m[WARNING] The POM for org.eclipse.jetty:jetty-util:jar:9.4.5.v20170502 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+[8mha:////4FgVpCH/S5kjhM4aKaNEG8D32LVTzuWrGPC5JYx/R2KUAAAAYx+LCAAAAAAAAP9b85aBtbiIQSWjNKU4P0+vJLE4u1gvPjexLDVPzxdEhicW5WXmpfvll6S2fNly5fzGzauYGBgqihikoFqS8/OK83NS9ZwhNEghAwQwghQWAACwxA+XYgAAAA==[0m[WARNING] The POM for org.eclipse.jetty.websocket:websocket-api:jar:9.4.5.v20170502 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+[8mha:////4FgVpCH/S5kjhM4aKaNEG8D32LVTzuWrGPC5JYx/R2KUAAAAYx+LCAAAAAAAAP9b85aBtbiIQSWjNKU4P0+vJLE4u1gvPjexLDVPzxdEhicW5WXmpfvll6S2fNly5fzGzauYGBgqihikoFqS8/OK83NS9ZwhNEghAwQwghQWAACwxA+XYgAAAA==[0m[WARNING] The POM for org.eclipse.jetty.websocket:websocket-common:jar:9.4.5.v20170502 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+[8mha:////4FgVpCH/S5kjhM4aKaNEG8D32LVTzuWrGPC5JYx/R2KUAAAAYx+LCAAAAAAAAP9b85aBtbiIQSWjNKU4P0+vJLE4u1gvPjexLDVPzxdEhicW5WXmpfvll6S2fNly5fzGzauYGBgqihikoFqS8/OK83NS9ZwhNEghAwQwghQWAACwxA+XYgAAAA==[0m[WARNING] The POM for org.apache.httpcomponents:httpcore:jar:4.3.3 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+[8mha:////4FgVpCH/S5kjhM4aKaNEG8D32LVTzuWrGPC5JYx/R2KUAAAAYx+LCAAAAAAAAP9b85aBtbiIQSWjNKU4P0+vJLE4u1gvPjexLDVPzxdEhicW5WXmpfvll6S2fNly5fzGzauYGBgqihikoFqS8/OK83NS9ZwhNEghAwQwghQWAACwxA+XYgAAAA==[0m[WARNING] The artifact org.apache.commons:commons-io:jar:1.3.2 has been relocated to commons-io:commons-io:jar:1.3.2
+[INFO] 
+[8mha:////4FeHgFSRyne1GA3PpjwbR1R8tgg2WwLe4OMTA4Du3+jlAAAAYB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P0+vJLE4u1gvPjexLDVPzxdEGvvmZ+X75ZekLlOVfvTjc8FPJgaGiiIGKaiG5Py84vycVD1nCA1SyAABjCCFBQCV27OjYAAAAA==[0m[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ onlineAutomation ---
+[INFO] Deleting C:\AutomationFramework\JavaSeleniumFramework\target
+[INFO] 
+[8mha:////4FeHgFSRyne1GA3PpjwbR1R8tgg2WwLe4OMTA4Du3+jlAAAAYB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P0+vJLE4u1gvPjexLDVPzxdEGvvmZ+X75ZekLlOVfvTjc8FPJgaGiiIGKaiG5Py84vycVD1nCA1SyAABjCCFBQCV27OjYAAAAA==[0m[INFO] --- cucumber-jvm-parallel-plugin:4.2.0:generateRunners (generateRunners) @ onlineAutomation ---
+[INFO] Adding C:\AutomationFramework\JavaSeleniumFramework\target\generated-test-sources\cucumber to test-compile source root
+[INFO] 
+[8mha:////4FeHgFSRyne1GA3PpjwbR1R8tgg2WwLe4OMTA4Du3+jlAAAAYB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P0+vJLE4u1gvPjexLDVPzxdEGvvmZ+X75ZekLlOVfvTjc8FPJgaGiiIGKaiG5Py84vycVD1nCA1SyAABjCCFBQCV27OjYAAAAA==[0m[INFO] --- maven-resources-plugin:2.7:resources (default-resources) @ onlineAutomation ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] Copying 7 resources
+[INFO] 
+[8mha:////4FeHgFSRyne1GA3PpjwbR1R8tgg2WwLe4OMTA4Du3+jlAAAAYB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P0+vJLE4u1gvPjexLDVPzxdEGvvmZ+X75ZekLlOVfvTjc8FPJgaGiiIGKaiG5Py84vycVD1nCA1SyAABjCCFBQCV27OjYAAAAA==[0m[INFO] --- maven-compiler-plugin:2.5.1:compile (default-compile) @ onlineAutomation ---
+[INFO] Nothing to compile - all classes are up to date
+[INFO] 
+[8mha:////4FeHgFSRyne1GA3PpjwbR1R8tgg2WwLe4OMTA4Du3+jlAAAAYB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P0+vJLE4u1gvPjexLDVPzxdEGvvmZ+X75ZekLlOVfvTjc8FPJgaGiiIGKaiG5Py84vycVD1nCA1SyAABjCCFBQCV27OjYAAAAA==[0m[INFO] --- maven-resources-plugin:2.7:testResources (default-testResources) @ onlineAutomation ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] Copying 7 resources
+[INFO] 
+[8mha:////4FeHgFSRyne1GA3PpjwbR1R8tgg2WwLe4OMTA4Du3+jlAAAAYB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P0+vJLE4u1gvPjexLDVPzxdEGvvmZ+X75ZekLlOVfvTjc8FPJgaGiiIGKaiG5Py84vycVD1nCA1SyAABjCCFBQCV27OjYAAAAA==[0m[INFO] --- maven-compiler-plugin:2.5.1:testCompile (default-testCompile) @ onlineAutomation ---
+[INFO] Compiling 52 source files to C:\AutomationFramework\JavaSeleniumFramework\target\test-classes
+[INFO] 
+[8mha:////4FeHgFSRyne1GA3PpjwbR1R8tgg2WwLe4OMTA4Du3+jlAAAAYB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P0+vJLE4u1gvPjexLDVPzxdEGvvmZ+X75ZekLlOVfvTjc8FPJgaGiiIGKaiG5Py84vycVD1nCA1SyAABjCCFBQCV27OjYAAAAA==[0m[INFO] --- maven-surefire-plugin:2.21.0:test (default-test) @ onlineAutomation ---
+[INFO] 
+[INFO] -------------------------------------------------------
+[INFO]  T E S T S
+[INFO] -------------------------------------------------------
+[INFO] Running com.mab.test.hybrid.ScriptGenerator
+Scenario is passed as : Harvester_DistinctOutlets
+-- listing properties --
+profile.path=/profiles/jenkins/config.properties
+-- listing properties --
+harvester.url=https://stage-harvester.cms.mbplc.com/
+guest.user=guest
+driver.root.dir=tools
+iZone.url=https://tables.izone-staging.com/user...
+harvester.booking=http://mbplc-mkt-stage2-t.adobe-campa...
+mobile=Android
+site.url=https://www.harvester.co.uk/
+udid=ce0617165176d4120d
+autoemail=No
+oneills.order.url=https://stage-oneills.cms.mbplc.com/n...
+toby.url=https://stage-tobycarvery.cms.mbplc.com/
+guest.password=Alex900
+project.name=GuestOnline
+miller&carter.url=https://www.millerandcarter.co.uk/
+emailuser=jamesja@mbplc.com
+testToRun=**/ScriptGenerator.class
+screenshot=Yes
+iZone.user=555045mgr
+iZone.password=Sunshine1
+emailpassword=Vision18
+program.name=Guest Online WebPlatform
+reportlink="file://corp.retailhq.net/workspace/I...
+browser=chrome
+emailrecipients=jamesja@mbplc.com
+platform=win32
+Starting ChromeDriver 2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e) on port 25482
+Only local connections are allowed.
+Aug 03, 2018 11:23:31 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+Current working directory : C:\AutomationFramework\JavaSeleniumFramework
+Directory
+Aug 03, 2018 11:24:03 AM org.openqa.selenium.interactions.Actions moveToElement
+INFO: When using the W3C Action commands, offsets are from the center of element
+By.xpath: //input[@id='location-tablebooking'] located
+Aug 03, 2018 11:24:08 AM org.openqa.selenium.interactions.Actions moveToElement
+INFO: When using the W3C Action commands, offsets are from the center of element
+By.xpath: //input[@id='location-tablebooking'] located
+Aug 03, 2018 11:24:10 AM org.openqa.selenium.interactions.Actions moveToElement
+INFO: When using the W3C Action commands, offsets are from the center of element
+Aug 03, 2018 11:24:13 AM org.openqa.selenium.interactions.Actions moveToElement
+INFO: When using the W3C Action commands, offsets are from the center of element
+Aug 03, 2018 11:24:22 AM org.openqa.selenium.interactions.Actions moveToElement
+INFO: When using the W3C Action commands, offsets are from the center of element
+By.xpath: //a[@class='main-btn continue-to-date'] located
+Aug 03, 2018 11:24:27 AM org.openqa.selenium.interactions.Actions moveToElement
+INFO: When using the W3C Action commands, offsets are from the center of element
+By.xpath: //a[@class='main-btn continue-to-date'] located
+Aug 03, 2018 11:24:29 AM org.openqa.selenium.interactions.Actions moveToElement
+INFO: When using the W3C Action commands, offsets are from the center of element
+Aug 03, 2018 11:24:33 AM org.openqa.selenium.interactions.Actions moveToElement
+INFO: When using the W3C Action commands, offsets are from the center of element
+By.xpath: //a[@class='main-btn continue-to-date'] located
+Aug 03, 2018 11:24:35 AM org.openqa.selenium.interactions.Actions moveToElement
+INFO: When using the W3C Action commands, offsets are from the center of element
+Aug 03, 2018 11:24:39 AM org.openqa.selenium.interactions.Actions moveToElement
+INFO: When using the W3C Action commands, offsets are from the center of element
+By.xpath: //select[@id='adults-tablebooking'] located
+Aug 03, 2018 11:24:41 AM org.openqa.selenium.interactions.Actions moveToElement
+INFO: When using the W3C Action commands, offsets are from the center of element
+Aug 03, 2018 11:24:46 AM org.openqa.selenium.interactions.Actions moveToElement
+INFO: When using the W3C Action commands, offsets are from the center of element
+By.xpath: //select[@id='adults-tablebooking'] located
+26/08/2018
+0
+26
+Aug 03, 2018 11:24:53 AM org.openqa.selenium.interactions.Actions moveToElement
+INFO: When using the W3C Action commands, offsets are from the center of element
+By.linkText: 26 located
+Aug 03, 2018 11:24:55 AM org.openqa.selenium.interactions.Actions moveToElement
+INFO: When using the W3C Action commands, offsets are from the center of element
+Aug 03, 2018 11:25:00 AM org.openqa.selenium.interactions.Actions moveToElement
+INFO: When using the W3C Action commands, offsets are from the center of element
+By.name: mealtime located
+Aug 03, 2018 11:25:02 AM org.openqa.selenium.interactions.Actions moveToElement
+INFO: When using the W3C Action commands, offsets are from the center of element
+Aug 03, 2018 11:25:06 AM org.openqa.selenium.interactions.Actions moveToElement
+INFO: When using the W3C Action commands, offsets are from the center of element
+By.name: mealtime located
+Aug 03, 2018 11:25:11 AM org.openqa.selenium.interactions.Actions moveToElement
+INFO: When using the W3C Action commands, offsets are from the center of element
+By.xpath: //a[@class='main-btn forward-btn show-available-times'] located
+Aug 03, 2018 11:25:16 AM org.openqa.selenium.interactions.Actions moveToElement
+INFO: When using the W3C Action commands, offsets are from the center of element
+By.xpath: //a[@class='main-btn forward-btn show-available-times'] located
+Aug 03, 2018 11:25:18 AM org.openqa.selenium.interactions.Actions moveToElement
+INFO: When using the W3C Action commands, offsets are from the center of element
+Aug 03, 2018 11:25:22 AM org.openqa.selenium.interactions.Actions moveToElement
+INFO: When using the W3C Action commands, offsets are from the center of element
+By.xpath: //a[@class='main-btn forward-btn show-available-times'] located
+Aug 03, 2018 11:25:24 AM org.openqa.selenium.interactions.Actions moveToElement
+INFO: When using the W3C Action commands, offsets are from the center of element
+Aug 03, 2018 11:25:28 AM org.openqa.selenium.interactions.Actions moveToElement
+INFO: When using the W3C Action commands, offsets are from the center of element
+By.xpath: //label[contains(@for,'tablebooking_timeslot_131500')] located
+Aug 03, 2018 11:25:33 AM org.openqa.selenium.interactions.Actions moveToElement
+INFO: When using the W3C Action commands, offsets are from the center of element
+By.xpath: //label[contains(@for,'tablebooking_timeslot_131500')] located
+Aug 03, 2018 11:25:35 AM org.openqa.selenium.interactions.Actions moveToElement
+INFO: When using the W3C Action commands, offsets are from the center of element
+Aug 03, 2018 11:25:40 AM org.openqa.selenium.interactions.Actions moveToElement
+INFO: When using the W3C Action commands, offsets are from the center of element
+By.xpath: //label[contains(@for,'tablebooking_timeslot_131500')] located
+Aug 03, 2018 11:25:42 AM org.openqa.selenium.interactions.Actions moveToElement
+INFO: When using the W3C Action commands, offsets are from the center of element
+Aug 03, 2018 11:25:45 AM org.openqa.selenium.interactions.Actions moveToElement
+INFO: When using the W3C Action commands, offsets are from the center of element
+By.xpath: //a[@class='main-btn forward-btn continue-to-review'] located
+Aug 03, 2018 11:25:50 AM org.openqa.selenium.interactions.Actions moveToElement
+INFO: When using the W3C Action commands, offsets are from the center of element
+By.xpath: //a[@class='main-btn forward-btn continue-to-review'] located
+Aug 03, 2018 11:25:52 AM org.openqa.selenium.interactions.Actions moveToElement
+INFO: When using the W3C Action commands, offsets are from the center of element
+Aug 03, 2018 11:25:57 AM org.openqa.selenium.interactions.Actions moveToElement
+INFO: When using the W3C Action commands, offsets are from the center of element
+By.xpath: //a[@class='main-btn forward-btn continue-to-review'] located
+Aug 03, 2018 11:25:59 AM org.openqa.selenium.interactions.Actions moveToElement
+INFO: When using the W3C Action commands, offsets are from the center of element
+Aug 03, 2018 11:26:02 AM org.openqa.selenium.interactions.Actions moveToElement
+INFO: When using the W3C Action commands, offsets are from the center of element
+By.xpath: //a[@class='main-btn forward-btn continue-to-details'] located
+Aug 03, 2018 11:26:07 AM org.openqa.selenium.interactions.Actions moveToElement
+INFO: When using the W3C Action commands, offsets are from the center of element
+By.xpath: //a[@class='main-btn forward-btn continue-to-details'] located
+Aug 03, 2018 11:26:09 AM org.openqa.selenium.interactions.Actions moveToElement
+INFO: When using the W3C Action commands, offsets are from the center of element
+Aug 03, 2018 11:26:14 AM org.openqa.selenium.interactions.Actions moveToElement
+INFO: When using the W3C Action commands, offsets are from the center of element
+By.xpath: //a[@class='main-btn forward-btn continue-to-details'] located
+Aug 03, 2018 11:26:16 AM org.openqa.selenium.interactions.Actions moveToElement
+INFO: When using the W3C Action commands, offsets are from the center of element
+Aug 03, 2018 11:26:19 AM org.openqa.selenium.interactions.Actions moveToElement
+INFO: When using the W3C Action commands, offsets are from the center of element
+By.name: placeOrder located
+Aug 03, 2018 11:26:24 AM org.openqa.selenium.interactions.Actions moveToElement
+INFO: When using the W3C Action commands, offsets are from the center of element
+By.name: placeOrder located
+Aug 03, 2018 11:26:26 AM org.openqa.selenium.interactions.Actions moveToElement
+INFO: When using the W3C Action commands, offsets are from the center of element
+Aug 03, 2018 11:26:31 AM org.openqa.selenium.interactions.Actions moveToElement
+INFO: When using the W3C Action commands, offsets are from the center of element
+By.name: placeOrder located
+Aug 03, 2018 11:26:33 AM org.openqa.selenium.interactions.Actions moveToElement
+INFO: When using the W3C Action commands, offsets are from the center of element
+Aug 03, 2018 11:26:53 AM org.openqa.selenium.interactions.Actions moveToElement
+INFO: When using the W3C Action commands, offsets are from the center of element
+By.xpath: //span[@class='tablebooking--ref-number'] located
+Aug 03, 2018 11:27:01 AM org.openqa.selenium.interactions.Actions moveToElement
+INFO: When using the W3C Action commands, offsets are from the center of element
+By.xpath: //em[@class='tablebooking--confirmation-date'] located
+Aug 03, 2018 11:27:10 AM org.openqa.selenium.interactions.Actions moveToElement
+INFO: When using the W3C Action commands, offsets are from the center of element
+By.xpath: //em[@class='tablebooking--confirmation-time'] located
+Aug 03, 2018 11:27:18 AM org.openqa.selenium.interactions.Actions moveToElement
+INFO: When using the W3C Action commands, offsets are from the center of element
+By.xpath: //em[@class='tablebooking-confirmation-partysize'] located
+Aug 03, 2018 11:27:23 AM org.openqa.selenium.interactions.Actions moveToElement
+INFO: When using the W3C Action commands, offsets are from the center of element
+By.xpath: //a[@class='main-btn tablebooking--reset'] located
+Aug 03, 2018 11:27:28 AM org.openqa.selenium.interactions.Actions moveToElement
+INFO: When using the W3C Action commands, offsets are from the center of element
+By.xpath: //a[@class='main-btn tablebooking--reset'] located
+Aug 03, 2018 11:27:30 AM org.openqa.selenium.interactions.Actions moveToElement
+INFO: When using the W3C Action commands, offsets are from the center of element
+Aug 03, 2018 11:27:34 AM org.openqa.selenium.interactions.Actions moveToElement
+INFO: When using the W3C Action commands, offsets are from the center of element
+By.xpath: //a[@class='main-btn tablebooking--reset'] located
+Aug 03, 2018 11:27:36 AM org.openqa.selenium.interactions.Actions moveToElement
+INFO: When using the W3C Action commands, offsets are from the center of element
+Aug 03, 2018 11:27:45 AM org.openqa.selenium.interactions.Actions moveToElement
+INFO: When using the W3C Action commands, offsets are from the center of element
+By.xpath: //input[@id='location-tablebooking'] located
+Aug 03, 2018 11:27:49 AM org.openqa.selenium.interactions.Actions moveToElement
+INFO: When using the W3C Action commands, offsets are from the center of element
+By.xpath: //input[@id='location-tablebooking'] located
+Aug 03, 2018 11:27:52 AM org.openqa.selenium.interactions.Actions moveToElement
+INFO: When using the W3C Action commands, offsets are from the center of element
+Aug 03, 2018 11:27:55 AM org.openqa.selenium.interactions.Actions moveToElement
+INFO: When using the W3C Action commands, offsets are from the center of element
+Aug 03, 2018 11:28:04 AM org.openqa.selenium.interactions.Actions moveToElement
+INFO: When using the W3C Action commands, offsets are from the center of element
+By.xpath: //a[@class='main-btn continue-to-date'] located
+Aug 03, 2018 11:28:08 AM org.openqa.selenium.interactions.Actions moveToElement
+INFO: When using the W3C Action commands, offsets are from the center of element
+By.xpath: //a[@class='main-btn continue-to-date'] located
+Aug 03, 2018 11:28:10 AM org.openqa.selenium.interactions.Actions moveToElement
+INFO: When using the W3C Action commands, offsets are from the center of element
+Aug 03, 2018 11:28:15 AM org.openqa.selenium.interactions.Actions moveToElement
+INFO: When using the W3C Action commands, offsets are from the center of element
+By.xpath: //a[@class='main-btn continue-to-date'] located
+Aug 03, 2018 11:28:17 AM org.openqa.selenium.interactions.Actions moveToElement
+INFO: When using the W3C Action commands, offsets are from the center of element
+Aug 03, 2018 11:28:21 AM org.openqa.selenium.interactions.Actions moveToElement
+INFO: When using the W3C Action commands, offsets are from the center of element
+By.xpath: //select[@id='adults-tablebooking'] located
+Aug 03, 2018 11:28:23 AM org.openqa.selenium.interactions.Actions moveToElement
+INFO: When using the W3C Action commands, offsets are from the center of element
+Aug 03, 2018 11:28:27 AM org.openqa.selenium.interactions.Actions moveToElement
+INFO: When using the W3C Action commands, offsets are from the center of element
+By.xpath: //select[@id='adults-tablebooking'] located
+26/08/2018
+0
+26
+Aug 03, 2018 11:28:34 AM org.openqa.selenium.interactions.Actions moveToElement
+INFO: When using the W3C Action commands, offsets are from the center of element
+By.linkText: 26 located
+Aug 03, 2018 11:28:36 AM org.openqa.selenium.interactions.Actions moveToElement
+INFO: When using the W3C Action commands, offsets are from the center of element
+Aug 03, 2018 11:28:41 AM org.openqa.selenium.interactions.Actions moveToElement
+INFO: When using the W3C Action commands, offsets are from the center of element
+By.name: mealtime located
+Aug 03, 2018 11:28:43 AM org.openqa.selenium.interactions.Actions moveToElement
+INFO: When using the W3C Action commands, offsets are from the center of element
+Aug 03, 2018 11:28:48 AM org.openqa.selenium.interactions.Actions moveToElement
+INFO: When using the W3C Action commands, offsets are from the center of element
+By.name: mealtime located
+Aug 03, 2018 11:28:52 AM org.openqa.selenium.interactions.Actions moveToElement
+INFO: When using the W3C Action commands, offsets are from the center of element
+By.xpath: //a[@class='main-btn forward-btn show-available-times'] located
+Aug 03, 2018 11:28:57 AM org.openqa.selenium.interactions.Actions moveToElement
+INFO: When using the W3C Action commands, offsets are from the center of element
+By.xpath: //a[@class='main-btn forward-btn show-available-times'] located
+Aug 03, 2018 11:28:59 AM org.openqa.selenium.interactions.Actions moveToElement
+INFO: When using the W3C Action commands, offsets are from the center of element
+Aug 03, 2018 11:29:03 AM org.openqa.selenium.interactions.Actions moveToElement
+INFO: When using the W3C Action commands, offsets are from the center of element
+By.xpath: //a[@class='main-btn forward-btn show-available-times'] located
+Aug 03, 2018 11:29:05 AM org.openqa.selenium.interactions.Actions moveToElement
+INFO: When using the W3C Action commands, offsets are from the center of element
+Aug 03, 2018 11:29:10 AM org.openqa.selenium.interactions.Actions moveToElement
+INFO: When using the W3C Action commands, offsets are from the center of element
+By.xpath: //label[contains(@for,'tablebooking_timeslot_131500')] located
+Aug 03, 2018 11:29:14 AM org.openqa.selenium.interactions.Actions moveToElement
+INFO: When using the W3C Action commands, offsets are from the center of element
+By.xpath: //label[contains(@for,'tablebooking_timeslot_131500')] located
+Aug 03, 2018 11:29:16 AM org.openqa.selenium.interactions.Actions moveToElement
+INFO: When using the W3C Action commands, offsets are from the center of element
+Aug 03, 2018 11:29:21 AM org.openqa.selenium.interactions.Actions moveToElement
+INFO: When using the W3C Action commands, offsets are from the center of element
+By.xpath: //label[contains(@for,'tablebooking_timeslot_131500')] located
+Aug 03, 2018 11:29:23 AM org.openqa.selenium.interactions.Actions moveToElement
+INFO: When using the W3C Action commands, offsets are from the center of element
+Aug 03, 2018 11:29:27 AM org.openqa.selenium.interactions.Actions moveToElement
+INFO: When using the W3C Action commands, offsets are from the center of element
+By.xpath: //a[@class='main-btn forward-btn continue-to-review'] located
+Aug 03, 2018 11:29:31 AM org.openqa.selenium.interactions.Actions moveToElement
+INFO: When using the W3C Action commands, offsets are from the center of element
+By.xpath: //a[@class='main-btn forward-btn continue-to-review'] located
+Aug 03, 2018 11:29:33 AM org.openqa.selenium.interactions.Actions moveToElement
+INFO: When using the W3C Action commands, offsets are from the center of element
+Aug 03, 2018 11:29:38 AM org.openqa.selenium.interactions.Actions moveToElement
+INFO: When using the W3C Action commands, offsets are from the center of element
+By.xpath: //a[@class='main-btn forward-btn continue-to-review'] located
+Aug 03, 2018 11:29:40 AM org.openqa.selenium.interactions.Actions moveToElement
+INFO: When using the W3C Action commands, offsets are from the center of element
+Aug 03, 2018 11:29:44 AM org.openqa.selenium.interactions.Actions moveToElement
+INFO: When using the W3C Action commands, offsets are from the center of element
+By.xpath: //a[@class='main-btn forward-btn continue-to-details'] located
+Aug 03, 2018 11:29:48 AM org.openqa.selenium.interactions.Actions moveToElement
+INFO: When using the W3C Action commands, offsets are from the center of element
+By.xpath: //a[@class='main-btn forward-btn continue-to-details'] located
+Aug 03, 2018 11:29:50 AM org.openqa.selenium.interactions.Actions moveToElement
+INFO: When using the W3C Action commands, offsets are from the center of element
+Aug 03, 2018 11:29:55 AM org.openqa.selenium.interactions.Actions moveToElement
+INFO: When using the W3C Action commands, offsets are from the center of element
+By.xpath: //a[@class='main-btn forward-btn continue-to-details'] located
+Aug 03, 2018 11:29:57 AM org.openqa.selenium.interactions.Actions moveToElement
+INFO: When using the W3C Action commands, offsets are from the center of element
+Aug 03, 2018 11:30:01 AM org.openqa.selenium.interactions.Actions moveToElement
+INFO: When using the W3C Action commands, offsets are from the center of element
+By.name: placeOrder located
+Aug 03, 2018 11:30:05 AM org.openqa.selenium.interactions.Actions moveToElement
+INFO: When using the W3C Action commands, offsets are from the center of element
+By.name: placeOrder located
+Aug 03, 2018 11:30:07 AM org.openqa.selenium.interactions.Actions moveToElement
+INFO: When using the W3C Action commands, offsets are from the center of element
+Aug 03, 2018 11:30:12 AM org.openqa.selenium.interactions.Actions moveToElement
+INFO: When using the W3C Action commands, offsets are from the center of element
+By.name: placeOrder located
+Aug 03, 2018 11:30:14 AM org.openqa.selenium.interactions.Actions moveToElement
+INFO: When using the W3C Action commands, offsets are from the center of element
+Aug 03, 2018 11:30:34 AM org.openqa.selenium.interactions.Actions moveToElement
+INFO: When using the W3C Action commands, offsets are from the center of element
+By.xpath: //span[@class='tablebooking--ref-number'] located
+Aug 03, 2018 11:30:43 AM org.openqa.selenium.interactions.Actions moveToElement
+INFO: When using the W3C Action commands, offsets are from the center of element
+By.xpath: //em[@class='tablebooking--confirmation-date'] located
+Aug 03, 2018 11:30:51 AM org.openqa.selenium.interactions.Actions moveToElement
+INFO: When using the W3C Action commands, offsets are from the center of element
+By.xpath: //em[@class='tablebooking--confirmation-time'] located
+Aug 03, 2018 11:30:59 AM org.openqa.selenium.interactions.Actions moveToElement
+INFO: When using the W3C Action commands, offsets are from the center of element
+By.xpath: //em[@class='tablebooking-confirmation-partysize'] located
+HTML Report is stored in the path: C:\AutomationFramework\JavaSeleniumFramework\src\test\resources\testreports\ExecutionLogs\03-08_11-23-32_93\Harvester_DistinctOutlets_93.html
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 460.514 s - in com.mab.test.hybrid.ScriptGenerator
+[INFO] 
+[INFO] Results:
+[INFO] 
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0
+[INFO] 
+[INFO] 
+[8mha:////4FeHgFSRyne1GA3PpjwbR1R8tgg2WwLe4OMTA4Du3+jlAAAAYB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P0+vJLE4u1gvPjexLDVPzxdEGvvmZ+X75ZekLlOVfvTjc8FPJgaGiiIGKaiG5Py84vycVD1nCA1SyAABjCCFBQCV27OjYAAAAA==[0m[INFO] --- maven-surefire-plugin:2.21.0:test (test) @ onlineAutomation ---
+[INFO] Tests are skipped.
+[INFO] 
+[INFO] >>> exec-maven-plugin:1.2.1:java (default) > validate @ onlineAutomation >>>
+[INFO] 
+[8mha:////4FeHgFSRyne1GA3PpjwbR1R8tgg2WwLe4OMTA4Du3+jlAAAAYB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P0+vJLE4u1gvPjexLDVPzxdEGvvmZ+X75ZekLlOVfvTjc8FPJgaGiiIGKaiG5Py84vycVD1nCA1SyAABjCCFBQCV27OjYAAAAA==[0m[INFO] --- cucumber-jvm-parallel-plugin:4.2.0:generateRunners (generateRunners) @ onlineAutomation ---
+[INFO] Adding C:\AutomationFramework\JavaSeleniumFramework\target\generated-test-sources\cucumber to test-compile source root
+[INFO] 
+[INFO] <<< exec-maven-plugin:1.2.1:java (default) < validate @ onlineAutomation <<<
+[INFO] 
+[INFO] 
+[8mha:////4FeHgFSRyne1GA3PpjwbR1R8tgg2WwLe4OMTA4Du3+jlAAAAYB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P0+vJLE4u1gvPjexLDVPzxdEGvvmZ+X75ZekLlOVfvTjc8FPJgaGiiIGKaiG5Py84vycVD1nCA1SyAABjCCFBQCV27OjYAAAAA==[0m[INFO] --- exec-maven-plugin:1.2.1:java (default) @ onlineAutomation ---
+[INFO] 
+[INFO] --- maven-cucumber-reporting:0.0.8:generate (execution) @ onlineAutomation ---
+[8mha:////4FgVpCH/S5kjhM4aKaNEG8D32LVTzuWrGPC5JYx/R2KUAAAAYx+LCAAAAAAAAP9b85aBtbiIQSWjNKU4P0+vJLE4u1gvPjexLDVPzxdEhicW5WXmpfvll6S2fNly5fzGzauYGBgqihikoFqS8/OK83NS9ZwhNEghAwQwghQWAACwxA+XYgAAAA==[0m[WARNING] C:\AutomationFramework\JavaSeleniumFramework\target\cucumber-report\cucumber.json does not exist.
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time: 07:49 min
+[INFO] Finished at: 2018-08-03T11:31:08+01:00
+[INFO] Final Memory: 35M/491M
+[INFO] ------------------------------------------------------------------------
+[JavaSeleniumFramework] $ cmd /c call C:\Users\TESTAC~1\AppData\Local\Temp\jenkins951942077070401759.bat
+
+C:\AutomationFramework\JavaSeleniumFramework>C:\AutomationFramework\JavaSeleniumFramework\src\test\resources\testdesign\Minimize.bat
+
+C:\AutomationFramework\JavaSeleniumFramework>START taskkill /f /im Excel.exe 
+
+C:\AutomationFramework\JavaSeleniumFramework>START taskkill /f /im chromedriver.exe 
+
+C:\AutomationFramework\JavaSeleniumFramework>start "" "C:\AutomationFramework\JavaSeleniumFramework\src\test\resources\testdesign\Minimize.vbs" 
+Triggering a new build of [8mha:////4MEbNOe+nqoEYm+uCVX/stlEZqDNzRxgVb/F+IUUbdGCAAAArR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzpEgZF/az8JH2PxKKy1OKS1KL44MTcVP/SkpzUkuJ416Ki/CJ9AG2x6ezWAAAA[0mHarvester_SameOutlets_Error
+Finished: SUCCESS

@@ -1,0 +1,24 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<result plugin="junit@1.23">
+  <suites>
+    <suite>
+      <file>C:\AutomationFramework\JavaSeleniumFramework\target\surefire-reports\TEST-com.mab.test.hybrid.ScriptGenerator.xml</file>
+      <name>com.mab.test.hybrid.ScriptGenerator</name>
+      <duration>90.99</duration>
+      <time>90.99</time>
+      <enclosingBlocks/>
+      <enclosingBlockNames/>
+      <cases>
+        <case>
+          <duration>90.158</duration>
+          <className>com.mab.test.hybrid.ScriptGenerator</className>
+          <testName>DesignDrivenExecution on DesignDrivenExecution(com.mab.test.hybrid.ScriptGenerator)</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+      </cases>
+    </suite>
+  </suites>
+  <duration>90.99</duration>
+  <keepLongStdio>false</keepLongStdio>
+</result>

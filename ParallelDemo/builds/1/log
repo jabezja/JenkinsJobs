@@ -1,0 +1,220 @@
+Started by user [8mha:////4J8JrJht7t7A7SriVTzQOlM2hmQuW/E1CIxqbiJ3dqs5AAAAmR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzOEgZe/dLi1CL90rzsvPzyPACFlOLawgAAAA==[0manonymous
+Building in workspace C:\Jenkins\workspace\ParallelDemo
+[ParallelDemo] $ cmd.exe /C "C:\Maven\apache-maven-3.5.2\bin\mvn.cmd -f C:\AutomationFramework\JavaSeleniumFramework\pom.xml verify && exit %%ERRORLEVEL%%"
+[INFO] Scanning for projects...
+[INFO] 
+[INFO] ------------------------------------------------------------------------
+[INFO] Building onlineAutomation 1.0-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[8mha:////4FgVpCH/S5kjhM4aKaNEG8D32LVTzuWrGPC5JYx/R2KUAAAAYx+LCAAAAAAAAP9b85aBtbiIQSWjNKU4P0+vJLE4u1gvPjexLDVPzxdEhicW5WXmpfvll6S2fNly5fzGzauYGBgqihikoFqS8/OK83NS9ZwhNEghAwQwghQWAACwxA+XYgAAAA==[0m[WARNING] The POM for org.eclipse.jetty.websocket:websocket-client:jar:9.4.5.v20170502 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+[8mha:////4FgVpCH/S5kjhM4aKaNEG8D32LVTzuWrGPC5JYx/R2KUAAAAYx+LCAAAAAAAAP9b85aBtbiIQSWjNKU4P0+vJLE4u1gvPjexLDVPzxdEhicW5WXmpfvll6S2fNly5fzGzauYGBgqihikoFqS8/OK83NS9ZwhNEghAwQwghQWAACwxA+XYgAAAA==[0m[WARNING] The POM for org.eclipse.jetty:jetty-client:jar:9.4.5.v20170502 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+[8mha:////4FgVpCH/S5kjhM4aKaNEG8D32LVTzuWrGPC5JYx/R2KUAAAAYx+LCAAAAAAAAP9b85aBtbiIQSWjNKU4P0+vJLE4u1gvPjexLDVPzxdEhicW5WXmpfvll6S2fNly5fzGzauYGBgqihikoFqS8/OK83NS9ZwhNEghAwQwghQWAACwxA+XYgAAAA==[0m[WARNING] The POM for org.eclipse.jetty:jetty-http:jar:9.4.5.v20170502 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+[8mha:////4FgVpCH/S5kjhM4aKaNEG8D32LVTzuWrGPC5JYx/R2KUAAAAYx+LCAAAAAAAAP9b85aBtbiIQSWjNKU4P0+vJLE4u1gvPjexLDVPzxdEhicW5WXmpfvll6S2fNly5fzGzauYGBgqihikoFqS8/OK83NS9ZwhNEghAwQwghQWAACwxA+XYgAAAA==[0m[WARNING] The POM for org.eclipse.jetty:jetty-io:jar:9.4.5.v20170502 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+[8mha:////4FgVpCH/S5kjhM4aKaNEG8D32LVTzuWrGPC5JYx/R2KUAAAAYx+LCAAAAAAAAP9b85aBtbiIQSWjNKU4P0+vJLE4u1gvPjexLDVPzxdEhicW5WXmpfvll6S2fNly5fzGzauYGBgqihikoFqS8/OK83NS9ZwhNEghAwQwghQWAACwxA+XYgAAAA==[0m[WARNING] The POM for org.eclipse.jetty:jetty-util:jar:9.4.5.v20170502 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+[8mha:////4FgVpCH/S5kjhM4aKaNEG8D32LVTzuWrGPC5JYx/R2KUAAAAYx+LCAAAAAAAAP9b85aBtbiIQSWjNKU4P0+vJLE4u1gvPjexLDVPzxdEhicW5WXmpfvll6S2fNly5fzGzauYGBgqihikoFqS8/OK83NS9ZwhNEghAwQwghQWAACwxA+XYgAAAA==[0m[WARNING] The POM for org.eclipse.jetty.websocket:websocket-api:jar:9.4.5.v20170502 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+[8mha:////4FgVpCH/S5kjhM4aKaNEG8D32LVTzuWrGPC5JYx/R2KUAAAAYx+LCAAAAAAAAP9b85aBtbiIQSWjNKU4P0+vJLE4u1gvPjexLDVPzxdEhicW5WXmpfvll6S2fNly5fzGzauYGBgqihikoFqS8/OK83NS9ZwhNEghAwQwghQWAACwxA+XYgAAAA==[0m[WARNING] The POM for org.eclipse.jetty.websocket:websocket-common:jar:9.4.5.v20170502 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+[8mha:////4FgVpCH/S5kjhM4aKaNEG8D32LVTzuWrGPC5JYx/R2KUAAAAYx+LCAAAAAAAAP9b85aBtbiIQSWjNKU4P0+vJLE4u1gvPjexLDVPzxdEhicW5WXmpfvll6S2fNly5fzGzauYGBgqihikoFqS8/OK83NS9ZwhNEghAwQwghQWAACwxA+XYgAAAA==[0m[WARNING] The POM for org.apache.httpcomponents:httpcore:jar:4.3.3 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+[8mha:////4FgVpCH/S5kjhM4aKaNEG8D32LVTzuWrGPC5JYx/R2KUAAAAYx+LCAAAAAAAAP9b85aBtbiIQSWjNKU4P0+vJLE4u1gvPjexLDVPzxdEhicW5WXmpfvll6S2fNly5fzGzauYGBgqihikoFqS8/OK83NS9ZwhNEghAwQwghQWAACwxA+XYgAAAA==[0m[WARNING] The artifact org.apache.commons:commons-io:jar:1.3.2 has been relocated to commons-io:commons-io:jar:1.3.2
+[INFO] 
+[8mha:////4FeHgFSRyne1GA3PpjwbR1R8tgg2WwLe4OMTA4Du3+jlAAAAYB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P0+vJLE4u1gvPjexLDVPzxdEGvvmZ+X75ZekLlOVfvTjc8FPJgaGiiIGKaiG5Py84vycVD1nCA1SyAABjCCFBQCV27OjYAAAAA==[0m[INFO] --- cucumber-jvm-parallel-plugin:4.2.0:generateRunners (generateRunners) @ onlineAutomation ---
+[8mha:////4FgVpCH/S5kjhM4aKaNEG8D32LVTzuWrGPC5JYx/R2KUAAAAYx+LCAAAAAAAAP9b85aBtbiIQSWjNKU4P0+vJLE4u1gvPjexLDVPzxdEhicW5WXmpfvll6S2fNly5fzGzauYGBgqihikoFqS8/OK83NS9ZwhNEghAwQwghQWAACwxA+XYgAAAA==[0m[WARNING] The format parameter is deprecated. Please use plugins
+[INFO] Adding C:\AutomationFramework\JavaSeleniumFramework\target\generated-test-sources\cucumber to test-compile source root
+[INFO] 
+[8mha:////4FeHgFSRyne1GA3PpjwbR1R8tgg2WwLe4OMTA4Du3+jlAAAAYB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P0+vJLE4u1gvPjexLDVPzxdEGvvmZ+X75ZekLlOVfvTjc8FPJgaGiiIGKaiG5Py84vycVD1nCA1SyAABjCCFBQCV27OjYAAAAA==[0m[INFO] --- maven-resources-plugin:2.7:resources (default-resources) @ onlineAutomation ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] Copying 7 resources
+[INFO] 
+[8mha:////4FeHgFSRyne1GA3PpjwbR1R8tgg2WwLe4OMTA4Du3+jlAAAAYB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P0+vJLE4u1gvPjexLDVPzxdEGvvmZ+X75ZekLlOVfvTjc8FPJgaGiiIGKaiG5Py84vycVD1nCA1SyAABjCCFBQCV27OjYAAAAA==[0m[INFO] --- maven-compiler-plugin:2.5.1:compile (default-compile) @ onlineAutomation ---
+[INFO] Nothing to compile - all classes are up to date
+[INFO] 
+[8mha:////4FeHgFSRyne1GA3PpjwbR1R8tgg2WwLe4OMTA4Du3+jlAAAAYB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P0+vJLE4u1gvPjexLDVPzxdEGvvmZ+X75ZekLlOVfvTjc8FPJgaGiiIGKaiG5Py84vycVD1nCA1SyAABjCCFBQCV27OjYAAAAA==[0m[INFO] --- maven-resources-plugin:2.7:testResources (default-testResources) @ onlineAutomation ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] Copying 7 resources
+[INFO] 
+[8mha:////4FeHgFSRyne1GA3PpjwbR1R8tgg2WwLe4OMTA4Du3+jlAAAAYB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P0+vJLE4u1gvPjexLDVPzxdEGvvmZ+X75ZekLlOVfvTjc8FPJgaGiiIGKaiG5Py84vycVD1nCA1SyAABjCCFBQCV27OjYAAAAA==[0m[INFO] --- maven-compiler-plugin:2.5.1:testCompile (default-testCompile) @ onlineAutomation ---
+[INFO] Compiling 2 source files to C:\AutomationFramework\JavaSeleniumFramework\target\test-classes
+[INFO] 
+[8mha:////4FeHgFSRyne1GA3PpjwbR1R8tgg2WwLe4OMTA4Du3+jlAAAAYB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P0+vJLE4u1gvPjexLDVPzxdEGvvmZ+X75ZekLlOVfvTjc8FPJgaGiiIGKaiG5Py84vycVD1nCA1SyAABjCCFBQCV27OjYAAAAA==[0m[INFO] --- maven-surefire-plugin:2.17:test (default-test) @ onlineAutomation ---
+[INFO] Surefire report directory: C:\AutomationFramework\JavaSeleniumFramework\target\surefire-reports
+
+-------------------------------------------------------
+ T E S T S
+-------------------------------------------------------
+Running com.mab.test.datadriven.Test
+Configuring TestNG with: TestNG652Configurator
+Tests run: 0, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.68 sec - in com.mab.test.datadriven.Test
+
+Results :
+
+Tests run: 0, Failures: 0, Errors: 0, Skipped: 0
+
+[INFO] 
+[8mha:////4FeHgFSRyne1GA3PpjwbR1R8tgg2WwLe4OMTA4Du3+jlAAAAYB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P0+vJLE4u1gvPjexLDVPzxdEGvvmZ+X75ZekLlOVfvTjc8FPJgaGiiIGKaiG5Py84vycVD1nCA1SyAABjCCFBQCV27OjYAAAAA==[0m[INFO] --- maven-surefire-plugin:2.17:test (test) @ onlineAutomation ---
+[INFO] Surefire report directory: C:\AutomationFramework\JavaSeleniumFramework\target\surefire-reports
+
+-------------------------------------------------------
+ T E S T S
+-------------------------------------------------------
+
+-------------------------------------------------------
+ T E S T S
+-------------------------------------------------------
+Running com.tests.Parallel01IT
+Running com.tests.Parallel02IT
+Configuring TestNG with: TestNG652Configurator
+Configuring TestNG with: TestNG652Configurator
+-- listing properties --
+profile.path=/profiles/jenkins/config.properties
+-- listing properties --
+project.name=Harvester
+mobile=Android
+program.name=Guest Online WebPlatform
+testToRun=**/*WebATSuite*.class
+iZone.user=555045mgr
+driver.root.dir=tools
+platform=win32
+site.url=https://www.harvester.co.uk/
+harvester.booking=http://mbplc-mkt-stage2-t.adobe-campa...
+-- listing properties --
+profile.path=/profiles/jenkins/config.properties
+-- listing properties --
+project.name=Harvester
+mobile=Android
+program.name=Guest Online WebPlatform
+testToRun=**/*WebATSuite*.class
+iZone.user=555045mgr
+driver.root.dir=tools
+platform=win32
+site.url=https://www.harvester.co.uk/
+harvester.booking=http://mbplc-mkt-stage2-t.adobe-campa...
+udid=9889db41474a524359
+iZone.password=Sunshine1
+browser=chrome
+iZone.url=https://tables.izone-staging.com/user...
+harvester.url=https://stage-harvester.cms.mbplc.com/
+udid=9889db41474a524359
+iZone.password=Sunshine1
+browser=chrome
+iZone.url=https://tables.izone-staging.com/user...
+harvester.url=https://stage-harvester.cms.mbplc.com/
+Starting ChromeDriver 2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7) on port 4816
+Only local connections are allowed.
+Mar 29, 2018 1:47:23 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+[main] INFO com.mab.test.pageobjects.mab.harvester.HomePage -  Navigating to Harvester HomePage 
+
+Current working directory : C:\AutomationFramework\JavaSeleniumFramework
+Directory
+-- listing properties --
+profile.path=/profiles/jenkins/config.properties
+-- listing properties --
+project.name=Harvester
+mobile=Android
+program.name=Guest Online WebPlatform
+testToRun=**/*WebATSuite*.class
+iZone.user=555045mgr
+driver.root.dir=tools
+platform=win32
+site.url=https://www.harvester.co.uk/
+harvester.booking=http://mbplc-mkt-stage2-t.adobe-campa...
+udid=9889db41474a524359
+iZone.password=Sunshine1
+browser=chrome
+iZone.url=https://tables.izone-staging.com/user...
+harvester.url=https://stage-harvester.cms.mbplc.com/
+The user is on the Harvester home page
+Mar 29, 2018 1:47:44 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+By.xpath: //input[@id='search'] located
+[main] INFO com.mab.test.pageobjects.mab.harvester.MobileHomePage -  Navigating to Harvester Mobile HomePage 
+
+-- listing properties --
+profile.path=/profiles/jenkins/config.properties
+-- listing properties --
+project.name=Harvester
+mobile=Android
+program.name=Guest Online WebPlatform
+testToRun=**/*WebATSuite*.class
+iZone.user=555045mgr
+driver.root.dir=tools
+platform=win32
+site.url=https://www.harvester.co.uk/
+harvester.booking=http://mbplc-mkt-stage2-t.adobe-campa...
+udid=9889db41474a524359
+iZone.password=Sunshine1
+browser=chrome
+iZone.url=https://tables.izone-staging.com/user...
+harvester.url=https://stage-harvester.cms.mbplc.com/
+By.xpath: //input[@id='search'] located
+By.xpath: //input[@id='search'] located
+The user has searched for the restaurant
+Current working directory : C:\AutomationFramework\JavaSeleniumFramework
+Directory
+By.xpath: //input[@id='findAPubSearchTerm'] located
+The user has navigated to the Harvester search results
+By.xpath: //a[@class='findOnMap minus'] located
+The nearest Harvester outlet is listed
+HTML Report is stored in the path: C:\AutomationFramework\JavaSeleniumFramework\src\test\resources\testreports\ExecutionLogs\29-03_13-47-25_13\Harvester_13.html
+The user is on the Harvester home page
+[main] INFO com.mab.test.pageobjects.mab.harvester.MobileHomePage -  Navigating to Harvester Mobile Restaurants Search Page 
+
+
+1 Scenarios (1 passed)
+4 Steps (4 passed)
+0m50.116s
+
+Tests run: 0, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 52.756 sec - in com.tests.Parallel02IT
+
+https://stage-harvester.cms.mbplc.com/restaurants
+selected restaurants page
+Inside native app context
+The user is on the Restaurants search page
+postcode is B31 JP
+Title Harvester | Find a restaurant near you
+PCT TEST LAB
+TABLE BOOKING
+https://stage-harvester.cms.mbplc.com/restaurants/eastandwestmidlands/pcttestlab/tablebooking
+true
+HTML Report is stored in the path: C:\AutomationFramework\JavaSeleniumFramework\src\test\resources\testreports\ExecutionLogs\29-03_13-47-58_25\Harvester_25.html
+
+1 Scenarios (1 passed)
+4 Steps (4 passed)
+1m48.666s
+
+Tests run: 0, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 111.379 sec - in com.tests.Parallel01IT
+
+Results :
+
+Tests run: 0, Failures: 0, Errors: 0, Skipped: 0
+
+[INFO] 
+[INFO] >>> exec-maven-plugin:1.2.1:java (default) > validate @ onlineAutomation >>>
+[INFO] 
+[8mha:////4FeHgFSRyne1GA3PpjwbR1R8tgg2WwLe4OMTA4Du3+jlAAAAYB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P0+vJLE4u1gvPjexLDVPzxdEGvvmZ+X75ZekLlOVfvTjc8FPJgaGiiIGKaiG5Py84vycVD1nCA1SyAABjCCFBQCV27OjYAAAAA==[0m[INFO] --- cucumber-jvm-parallel-plugin:4.2.0:generateRunners (generateRunners) @ onlineAutomation ---
+[8mha:////4FgVpCH/S5kjhM4aKaNEG8D32LVTzuWrGPC5JYx/R2KUAAAAYx+LCAAAAAAAAP9b85aBtbiIQSWjNKU4P0+vJLE4u1gvPjexLDVPzxdEhicW5WXmpfvll6S2fNly5fzGzauYGBgqihikoFqS8/OK83NS9ZwhNEghAwQwghQWAACwxA+XYgAAAA==[0m[WARNING] The format parameter is deprecated. Please use plugins
+[INFO] Adding C:\AutomationFramework\JavaSeleniumFramework\target\generated-test-sources\cucumber to test-compile source root
+[INFO] 
+[INFO] <<< exec-maven-plugin:1.2.1:java (default) < validate @ onlineAutomation <<<
+[INFO] 
+[INFO] 
+[8mha:////4FeHgFSRyne1GA3PpjwbR1R8tgg2WwLe4OMTA4Du3+jlAAAAYB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P0+vJLE4u1gvPjexLDVPzxdEGvvmZ+X75ZekLlOVfvTjc8FPJgaGiiIGKaiG5Py84vycVD1nCA1SyAABjCCFBQCV27OjYAAAAA==[0m[INFO] --- exec-maven-plugin:1.2.1:java (default) @ onlineAutomation ---
+[INFO] 
+[INFO] --- maven-cucumber-reporting:0.0.8:generate (execution) @ onlineAutomation ---
+[8mha:////4FgVpCH/S5kjhM4aKaNEG8D32LVTzuWrGPC5JYx/R2KUAAAAYx+LCAAAAAAAAP9b85aBtbiIQSWjNKU4P0+vJLE4u1gvPjexLDVPzxdEhicW5WXmpfvll6S2fNly5fzGzauYGBgqihikoFqS8/OK83NS9ZwhNEghAwQwghQWAACwxA+XYgAAAA==[0m[WARNING] C:\AutomationFramework\JavaSeleniumFramework\target\cucumber-report\cucumber.json does not exist.
+[INFO] 
+[8mha:////4FeHgFSRyne1GA3PpjwbR1R8tgg2WwLe4OMTA4Du3+jlAAAAYB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P0+vJLE4u1gvPjexLDVPzxdEGvvmZ+X75ZekLlOVfvTjc8FPJgaGiiIGKaiG5Py84vycVD1nCA1SyAABjCCFBQCV27OjYAAAAA==[0m[INFO] --- maven-jar-plugin:2.4:jar (default-jar) @ onlineAutomation ---
+[INFO] Building jar: C:\AutomationFramework\JavaSeleniumFramework\target\onlineAutomation-1.0-SNAPSHOT.jar
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time: 01:58 min
+[INFO] Finished at: 2018-03-29T13:49:06+01:00
+[INFO] Final Memory: 36M/328M
+[INFO] ------------------------------------------------------------------------
+[CucumberReport] Preparing Cucumber Reports
+[CucumberReport] JSON report directory is "C:\BDDAutomationFramework\JavaSeleniumFramework\target\cucumber-report"
+[CucumberReport] Copied 1 json files from workspace "C:\BDDAutomationFramework\JavaSeleniumFramework\target\cucumber-report" to reports directory "C:\Jenkins\jobs\ParallelDemo\builds\1\cucumber-html-reports\.cache"
+[CucumberReport] Copied 0 properties files from workspace "C:\BDDAutomationFramework\JavaSeleniumFramework\target\cucumber-report" to reports directory "C:\Jenkins\jobs\ParallelDemo\builds\1\cucumber-html-reports\.cache"
+[CucumberReport] Processing 1 json files:
+[CucumberReport] C:\Jenkins\jobs\ParallelDemo\builds\1\cucumber-html-reports\.cache\runwebat\cucumber.json
+Finished: SUCCESS

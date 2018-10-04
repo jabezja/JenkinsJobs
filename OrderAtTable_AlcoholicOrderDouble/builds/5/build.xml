@@ -1,0 +1,60 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<build>
+  <actions>
+    <hudson.model.CauseAction>
+      <causeBag class="linked-hash-map">
+        <entry>
+          <hudson.model.Cause_-UpstreamCause>
+            <upstreamProject>OrderAtTable_AlcoholicOrder</upstreamProject>
+            <upstreamUrl>job/OrderAtTable_AlcoholicOrder/</upstreamUrl>
+            <upstreamBuild>5</upstreamBuild>
+            <upstreamCauses>
+              <hudson.model.Cause_-UpstreamCause>
+                <upstreamProject>OrderAtTable_EditQuantity</upstreamProject>
+                <upstreamUrl>job/OrderAtTable_EditQuantity/</upstreamUrl>
+                <upstreamBuild>7</upstreamBuild>
+                <upstreamCauses>
+                  <hudson.model.Cause_-UpstreamCause>
+                    <upstreamProject>OrderAtTable_Views</upstreamProject>
+                    <upstreamUrl>job/OrderAtTable_Views/</upstreamUrl>
+                    <upstreamBuild>7</upstreamBuild>
+                    <upstreamCauses>
+                      <hudson.model.Cause_-UpstreamCause>
+                        <upstreamProject>OrderAtTable_Regression</upstreamProject>
+                        <upstreamUrl>job/OrderAtTable_Regression/</upstreamUrl>
+                        <upstreamBuild>4</upstreamBuild>
+                        <upstreamCauses>
+                          <hudson.model.Cause_-UpstreamCause>
+                            <upstreamProject>ONeils_OrderAtTable</upstreamProject>
+                            <upstreamUrl>job/ONeils_OrderAtTable/</upstreamUrl>
+                            <upstreamBuild>29</upstreamBuild>
+                            <upstreamCauses>
+                              <hudson.model.Cause_-UserIdCause/>
+                            </upstreamCauses>
+                          </hudson.model.Cause_-UpstreamCause>
+                        </upstreamCauses>
+                      </hudson.model.Cause_-UpstreamCause>
+                    </upstreamCauses>
+                  </hudson.model.Cause_-UpstreamCause>
+                </upstreamCauses>
+              </hudson.model.Cause_-UpstreamCause>
+            </upstreamCauses>
+          </hudson.model.Cause_-UpstreamCause>
+          <int>1</int>
+        </entry>
+      </causeBag>
+    </hudson.model.CauseAction>
+  </actions>
+  <queueId>481</queueId>
+  <timestamp>1535986973672</timestamp>
+  <startTime>1535986973679</startTime>
+  <result>FAILURE</result>
+  <duration>122111</duration>
+  <charset>windows-1252</charset>
+  <keepLog>false</keepLog>
+  <builtOn></builtOn>
+  <workspace>C:\AutomationFramework\JavaSeleniumFramework</workspace>
+  <hudsonVersion>2.129</hudsonVersion>
+  <scm class="hudson.scm.NullChangeLogParser"/>
+  <culprits class="com.google.common.collect.EmptyImmutableSortedSet"/>
+</build>

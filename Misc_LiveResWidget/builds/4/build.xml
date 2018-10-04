@@ -1,0 +1,39 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<build>
+  <actions>
+    <hudson.model.CauseAction>
+      <causeBag class="linked-hash-map">
+        <entry>
+          <hudson.model.Cause_-UpstreamCause>
+            <upstreamProject>Misc_MapWidget</upstreamProject>
+            <upstreamUrl>job/Misc_MapWidget/</upstreamUrl>
+            <upstreamBuild>3</upstreamBuild>
+            <upstreamCauses>
+              <hudson.model.Cause_-UpstreamCause>
+                <upstreamProject>Harvester Search Outlet</upstreamProject>
+                <upstreamUrl>job/Harvester%20Search%20Outlet/</upstreamUrl>
+                <upstreamBuild>24</upstreamBuild>
+                <upstreamCauses>
+                  <hudson.model.Cause_-UserIdCause/>
+                </upstreamCauses>
+              </hudson.model.Cause_-UpstreamCause>
+            </upstreamCauses>
+          </hudson.model.Cause_-UpstreamCause>
+          <int>1</int>
+        </entry>
+      </causeBag>
+    </hudson.model.CauseAction>
+  </actions>
+  <queueId>487</queueId>
+  <timestamp>1535988299222</timestamp>
+  <startTime>1535988299234</startTime>
+  <result>FAILURE</result>
+  <duration>75009</duration>
+  <charset>windows-1252</charset>
+  <keepLog>false</keepLog>
+  <builtOn></builtOn>
+  <workspace>C:\AutomationFramework\JavaSeleniumFramework</workspace>
+  <hudsonVersion>2.129</hudsonVersion>
+  <scm class="hudson.scm.NullChangeLogParser"/>
+  <culprits class="com.google.common.collect.EmptyImmutableSortedSet"/>
+</build>

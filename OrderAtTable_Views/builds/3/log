@@ -1,0 +1,18 @@
+Started by user unknown or anonymous
+Building in workspace C:\AutomationFramework\JavaSeleniumFramework
+[JavaSeleniumFramework] $ cmd /c call C:\Users\TESTAC~1\AppData\Local\Temp\jenkins7718152117349660976.bat
+
+C:\AutomationFramework\JavaSeleniumFramework>C:\AutomationFramework\JavaSeleniumFramework\src\test\resources\testdesign\Minimize.bat
+
+C:\AutomationFramework\JavaSeleniumFramework>START taskkill /f /im Excel.exe 
+
+C:\AutomationFramework\JavaSeleniumFramework>START taskkill /f /im chromedriver.exe 
+
+C:\AutomationFramework\JavaSeleniumFramework>start "" "C:\AutomationFramework\JavaSeleniumFramework\src\test\resources\testdesign\Minimize.vbs" 
+[JavaSeleniumFramework] $ cmd.exe /C "C:\Maven\apache-maven-3.5.2\bin\mvn.cmd clean test -Dtest=ScriptGenerator -Dscenario=OrderAtTable_Views && exit %%ERRORLEVEL%%"
+The JAVA_HOME environment variable is not defined correctly 
+This environment variable is needed to run this program 
+NB: JAVA_HOME should point to a JDK not a JRE 
+Build step 'Invoke top-level Maven targets' marked build as failure
+Triggering a new build of [8mha:////4LBoqAT9TO2Xy0h91aFnKflG8DegmnwHIT4mY8QwCLtAAAAAqx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzJEgZ5/az8JH3/opTUIseSkMSknNR415TMksDSxLySzJJKfQA1XNNb1AAAAA==[0mOrderAtTable_EditQuantity
+Finished: FAILURE

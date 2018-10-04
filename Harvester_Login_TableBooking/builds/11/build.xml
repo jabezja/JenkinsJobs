@@ -1,0 +1,74 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<build>
+  <actions>
+    <hudson.model.CauseAction>
+      <causeBag class="linked-hash-map">
+        <entry>
+          <hudson.model.Cause_-UpstreamCause>
+            <upstreamProject>Harvester_TableBooking_Event_Deposit</upstreamProject>
+            <upstreamUrl>job/Harvester_TableBooking_Event_Deposit/</upstreamUrl>
+            <upstreamBuild>10</upstreamBuild>
+            <upstreamCauses>
+              <hudson.model.Cause_-UpstreamCause>
+                <upstreamProject>Harvester_Register</upstreamProject>
+                <upstreamUrl>job/Harvester_Register/</upstreamUrl>
+                <upstreamBuild>16</upstreamBuild>
+                <upstreamCauses>
+                  <hudson.model.Cause_-UpstreamCause>
+                    <upstreamProject>MillerAndCarter_TableBooking</upstreamProject>
+                    <upstreamUrl>job/MillerAndCarter_TableBooking/</upstreamUrl>
+                    <upstreamBuild>22</upstreamBuild>
+                    <upstreamCauses>
+                      <hudson.model.Cause_-UpstreamCause>
+                        <upstreamProject>PCP_TableBooking</upstreamProject>
+                        <upstreamUrl>job/PCP_TableBooking/</upstreamUrl>
+                        <upstreamBuild>18</upstreamBuild>
+                        <upstreamCauses>
+                          <hudson.model.Cause_-UpstreamCause>
+                            <upstreamProject>Browns_TableBooking</upstreamProject>
+                            <upstreamUrl>job/Browns_TableBooking/</upstreamUrl>
+                            <upstreamBuild>16</upstreamBuild>
+                            <upstreamCauses>
+                              <hudson.model.Cause_-UpstreamCause>
+                                <upstreamProject>Toby_TableBooking</upstreamProject>
+                                <upstreamUrl>job/Toby_TableBooking/</upstreamUrl>
+                                <upstreamBuild>18</upstreamBuild>
+                                <upstreamCauses>
+                                  <hudson.model.Cause_-UpstreamCause>
+                                    <upstreamProject>Harvester_TableBooking</upstreamProject>
+                                    <upstreamUrl>job/Harvester_TableBooking/</upstreamUrl>
+                                    <upstreamBuild>28</upstreamBuild>
+                                    <upstreamCauses>
+                                      <hudson.model.Cause_-UserIdCause/>
+                                    </upstreamCauses>
+                                  </hudson.model.Cause_-UpstreamCause>
+                                </upstreamCauses>
+                              </hudson.model.Cause_-UpstreamCause>
+                            </upstreamCauses>
+                          </hudson.model.Cause_-UpstreamCause>
+                        </upstreamCauses>
+                      </hudson.model.Cause_-UpstreamCause>
+                    </upstreamCauses>
+                  </hudson.model.Cause_-UpstreamCause>
+                </upstreamCauses>
+              </hudson.model.Cause_-UpstreamCause>
+            </upstreamCauses>
+          </hudson.model.Cause_-UpstreamCause>
+          <int>1</int>
+        </entry>
+      </causeBag>
+    </hudson.model.CauseAction>
+  </actions>
+  <queueId>750</queueId>
+  <timestamp>1538386802651</timestamp>
+  <startTime>1538386802658</startTime>
+  <result>FAILURE</result>
+  <duration>267033</duration>
+  <charset>windows-1252</charset>
+  <keepLog>false</keepLog>
+  <builtOn></builtOn>
+  <workspace>C:\AutomationFramework\JavaSeleniumFramework</workspace>
+  <hudsonVersion>2.142</hudsonVersion>
+  <scm class="hudson.scm.NullChangeLogParser"/>
+  <culprits class="com.google.common.collect.EmptyImmutableSortedSet"/>
+</build>

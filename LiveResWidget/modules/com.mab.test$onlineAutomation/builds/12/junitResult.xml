@@ -1,0 +1,40 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<result plugin="junit@1.23">
+  <suites>
+    <suite>
+      <file>C:\AutomationFramework\JavaSeleniumFramework\target\surefire-reports\TEST-com.mab.test.hybrid.ScriptGenerator.xml</file>
+      <name>com.mab.test.hybrid.ScriptGenerator</name>
+      <duration>1.931</duration>
+      <time>1.931</time>
+      <enclosingBlocks/>
+      <enclosingBlockNames/>
+      <cases>
+        <case>
+          <duration>1.245</duration>
+          <className>com.mab.test.hybrid.ScriptGenerator</className>
+          <testName>DesignDrivenExecution on DesignDrivenExecution(com.mab.test.hybrid.ScriptGenerator)</testName>
+          <skipped>false</skipped>
+          <errorStackTrace>java.lang.NoSuchMethodError: org.slf4j.impl.StaticLoggerBinder.getSingleton()Lorg/slf4j/impl/StaticLoggerBinder;
+	at com.mab.test.hybrid.ScriptGenerator.executeStep(ScriptGenerator.java:107)
+	at com.mab.test.hybrid.ScriptGenerator.DesignDrivenExecution(ScriptGenerator.java:57)
+</errorStackTrace>
+          <errorDetails>org.slf4j.impl.StaticLoggerBinder.getSingleton()Lorg/slf4j/impl/StaticLoggerBinder;</errorDetails>
+          <stdout>Scenario is passed as : Misc_LiveResWidget
+</stdout>
+          <stderr>SLF4J: Class path contains multiple SLF4J bindings.
+SLF4J: Found binding in [jar:file:/C:/Users/TestAccount1/.m2/repository/org/slf4j/slf4j-nop/1.5.3/slf4j-nop-1.5.3.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: Found binding in [jar:file:/C:/Users/TestAccount1/.m2/repository/org/slf4j/slf4j-jdk14/1.5.6/slf4j-jdk14-1.5.6.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: Found binding in [jar:file:/C:/Users/TestAccount1/.m2/repository/org/slf4j/slf4j-simple/1.7.7/slf4j-simple-1.7.7.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See http://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J: slf4j-api 1.6.x (or later) is incompatible with this binding.
+SLF4J: Your binding is version 1.5.5 or earlier.
+SLF4J: Upgrade your binding to version 1.6.x.
+</stderr>
+          <failedSince>12</failedSince>
+        </case>
+      </cases>
+    </suite>
+  </suites>
+  <duration>1.931</duration>
+  <keepLongStdio>false</keepLongStdio>
+</result>

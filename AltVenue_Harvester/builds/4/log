@@ -1,0 +1,17 @@
+Started by user unknown or anonymous
+Building in workspace C:\AutomationFramework\JavaSeleniumFramework
+[JavaSeleniumFramework] $ cmd /c call C:\Users\TESTAC~1\AppData\Local\Temp\jenkins8419721366820781269.bat
+
+C:\AutomationFramework\JavaSeleniumFramework>C:\AutomationFramework\JavaSeleniumFramework\src\test\resources\testdesign\Minimize.bat
+
+C:\AutomationFramework\JavaSeleniumFramework>tasklist   | find /i "Excel.exe"   && taskkill /im Excel.exe /F   || echo process "Excel.exe" not running. 
+process "Excel.exe" not running.
+
+C:\AutomationFramework\JavaSeleniumFramework>taskkill /f /im chromedriver.exe 
+ERROR: The process "chromedriver.exe" not found.
+
+C:\AutomationFramework\JavaSeleniumFramework>start "" "C:\AutomationFramework\JavaSeleniumFramework\src\test\resources\testdesign\Minimize.vbs" 
+Build step 'Execute Windows batch command' marked build as failure
+Recording test results
+ERROR: Step ‘Publish JUnit test result report’ failed: No test report files were found. Configuration error?
+Finished: FAILURE

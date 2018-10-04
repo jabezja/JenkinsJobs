@@ -1,0 +1,53 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<build>
+  <actions>
+    <hudson.model.CauseAction>
+      <causeBag class="linked-hash-map">
+        <entry>
+          <hudson.model.Cause_-UpstreamCause>
+            <upstreamProject>Misc_BATWidget</upstreamProject>
+            <upstreamUrl>job/Misc_BATWidget/</upstreamUrl>
+            <upstreamBuild>15</upstreamBuild>
+            <upstreamCauses>
+              <hudson.model.Cause_-UpstreamCause>
+                <upstreamProject>Misc_CollinsWidget</upstreamProject>
+                <upstreamUrl>job/Misc_CollinsWidget/</upstreamUrl>
+                <upstreamBuild>27</upstreamBuild>
+                <upstreamCauses>
+                  <hudson.model.Cause_-UpstreamCause>
+                    <upstreamProject>Misc_VimeoWidget</upstreamProject>
+                    <upstreamUrl>job/Misc_VimeoWidget/</upstreamUrl>
+                    <upstreamBuild>25</upstreamBuild>
+                    <upstreamCauses>
+                      <hudson.model.Cause_-UpstreamCause>
+                        <upstreamProject>Misc_LiveResWidget</upstreamProject>
+                        <upstreamUrl>job/Misc_LiveResWidget/</upstreamUrl>
+                        <upstreamBuild>9</upstreamBuild>
+                        <upstreamCauses>
+                          <hudson.model.Cause_-UserIdCause/>
+                        </upstreamCauses>
+                      </hudson.model.Cause_-UpstreamCause>
+                    </upstreamCauses>
+                  </hudson.model.Cause_-UpstreamCause>
+                </upstreamCauses>
+              </hudson.model.Cause_-UpstreamCause>
+            </upstreamCauses>
+          </hudson.model.Cause_-UpstreamCause>
+          <int>1</int>
+        </entry>
+      </causeBag>
+    </hudson.model.CauseAction>
+  </actions>
+  <queueId>735</queueId>
+  <timestamp>1537286102203</timestamp>
+  <startTime>1537286102210</startTime>
+  <result>SUCCESS</result>
+  <duration>71679</duration>
+  <charset>windows-1252</charset>
+  <keepLog>false</keepLog>
+  <builtOn></builtOn>
+  <workspace>C:\AutomationFramework\JavaSeleniumFramework</workspace>
+  <hudsonVersion>2.129</hudsonVersion>
+  <scm class="hudson.scm.NullChangeLogParser"/>
+  <culprits class="com.google.common.collect.EmptyImmutableSortedSet"/>
+</build>

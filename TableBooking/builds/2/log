@@ -1,0 +1,25 @@
+Started by user [8mha:////4J8JrJht7t7A7SriVTzQOlM2hmQuW/E1CIxqbiJ3dqs5AAAAmR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzOEgZe/dLi1CL90rzsvPzyPACFlOLawgAAAA==[0manonymous
+Building in workspace C:\Jenkins\workspace\TableBooking
+ > git.exe rev-parse --is-inside-work-tree # timeout=10
+Fetching changes from the remote Git repository
+ > git.exe config remote.origin.url https://mablr.visualstudio.com/_git/Automation # timeout=10
+Fetching upstream changes from https://mablr.visualstudio.com/_git/Automation
+ > git.exe --version # timeout=10
+ > git.exe fetch --tags --progress https://mablr.visualstudio.com/_git/Automation +refs/heads/*:refs/remotes/origin/*
+ > git.exe rev-parse "refs/remotes/origin/master^{commit}" # timeout=10
+ > git.exe rev-parse "refs/remotes/origin/origin/master^{commit}" # timeout=10
+Checking out Revision 4a9226bef44b8f4cf7313196072c3faf55bf0c31 (refs/remotes/origin/master)
+ > git.exe config core.sparsecheckout # timeout=10
+ > git.exe checkout -f 4a9226bef44b8f4cf7313196072c3faf55bf0c31
+Commit message: "Junit Test Runner"
+ > git.exe rev-list --no-walk 4a9226bef44b8f4cf7313196072c3faf55bf0c31 # timeout=10
+[TableBooking] $ cmd.exe /C "C:\Maven\apache-maven-3.5.2\bin\mvn.cmd -f "https://mablr.visualstudio.com/DefaultCollection/_git/Automation?path=JavaSeleniumFramework/pom.xml" clean test '"-Dcucumber.options=src/test/resources/features --tags @Smoke"' && exit %%ERRORLEVEL%%"
+POM file https://mablr.visualstudio.com/DefaultCollection/_git/Automation?path=JavaSeleniumFramework/pom.xml specified the -f/--file command-line argument does not exist 
+Build step 'Invoke top-level Maven targets' marked build as failure
+[CucumberReport] Preparing Cucumber Reports
+[CucumberReport] JSON report directory is "C:\BDDAutomationFramework\JavaSeleniumFramework\target\cucumber-report"
+[CucumberReport] Copied 1 json files from workspace "C:\BDDAutomationFramework\JavaSeleniumFramework\target\cucumber-report" to reports directory "C:\Jenkins\jobs\TableBooking\builds\2\cucumber-html-reports\.cache"
+[CucumberReport] Copied 0 properties files from workspace "C:\BDDAutomationFramework\JavaSeleniumFramework\target\cucumber-report" to reports directory "C:\Jenkins\jobs\TableBooking\builds\2\cucumber-html-reports\.cache"
+[CucumberReport] Processing 1 json files:
+[CucumberReport] C:\Jenkins\jobs\TableBooking\builds\2\cucumber-html-reports\.cache\runwebat\cucumber.json
+Finished: FAILURE

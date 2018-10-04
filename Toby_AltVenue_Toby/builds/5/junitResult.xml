@@ -1,0 +1,30 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<result plugin="junit@1.23">
+  <suites>
+    <suite>
+      <file>C:\AutomationFramework\JavaSeleniumFramework\target\surefire-reports\TEST-com.mab.test.hybrid.ScriptGenerator.xml</file>
+      <name>com.mab.test.hybrid.ScriptGenerator</name>
+      <duration>0.938</duration>
+      <time>0.938</time>
+      <enclosingBlocks/>
+      <enclosingBlockNames/>
+      <cases>
+        <case>
+          <duration>0.016</duration>
+          <className>com.mab.test.hybrid.ScriptGenerator</className>
+          <testName>DesignDrivenExecution on DesignDrivenExecution(com.mab.test.hybrid.ScriptGenerator)</testName>
+          <skipped>false</skipped>
+          <errorStackTrace>java.io.FileNotFoundException: C:\AutomationFramework\JavaSeleniumFramework\src\test\resources\testdesign\Toby_AltVenue_Harvester.xlsx (The system cannot find the file specified)
+	at com.mab.test.hybrid.ScriptGenerator.DesignDrivenExecution(ScriptGenerator.java:48)
+</errorStackTrace>
+          <errorDetails>C:\AutomationFramework\JavaSeleniumFramework\src\test\resources\testdesign\Toby_AltVenue_Harvester.xlsx (The system cannot find the file specified)</errorDetails>
+          <stdout>Scenario is passed as : Toby_AltVenue_Harvester
+</stdout>
+          <failedSince>0</failedSince>
+        </case>
+      </cases>
+    </suite>
+  </suites>
+  <duration>0.938</duration>
+  <keepLongStdio>false</keepLongStdio>
+</result>
