@@ -12,7 +12,7 @@
   <triggers>
     <jenkins.triggers.ReverseBuildTrigger>
       <spec></spec>
-      <upstreamProjects>OAT_Voucher_Equals_Basket</upstreamProjects>
+      <upstreamProjects>OAT_Vouchers_Invalid</upstreamProjects>
       <threshold>
         <name>SUCCESS</name>
         <ordinal>0</ordinal>
@@ -28,7 +28,7 @@
       <command>C:\AutomationFramework\JavaSeleniumFramework\src\test\resources\testdesign\Minimize.bat</command>
     </hudson.tasks.BatchFile>
     <hudson.tasks.Maven>
-      <targets>verify -Dtest=ScriptGenerator -Dscenario=OAT_Vouchers_Till_Promotion</targets>
+      <targets>verify -Dtest=ScriptGenerator -Dscenario=OAT_Null_Basket</targets>
       <mavenName>Home</mavenName>
       <usePrivateRepository>false</usePrivateRepository>
       <settings class="jenkins.mvn.DefaultSettingsProvider"/>

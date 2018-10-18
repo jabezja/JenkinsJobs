@@ -25,13 +25,6 @@
       <injectBuildVariables>false</injectBuildVariables>
     </hudson.tasks.Maven>
   </builders>
-  <publishers>
-    <hudson.tasks.junit.JUnitResultArchiver plugin="junit@1.23">
-      <testResults>target/surefire-reports/*.xml</testResults>
-      <keepLongStdio>false</keepLongStdio>
-      <healthScaleFactor>1.0</healthScaleFactor>
-      <allowEmptyResults>false</allowEmptyResults>
-    </hudson.tasks.junit.JUnitResultArchiver>
-  </publishers>
+  <publishers/>
   <buildWrappers/>
 </project>
